@@ -1,0 +1,7 @@
+2023-12-10 11:06:45.927 [info] Extension host with pid 34316 started
+2023-12-10 11:06:45.927 [info] Skipping acquiring lock for /home/bismarckx/.config/Code - OSS/User/workspaceStorage/69b8ecdce509889e138d9937e972def2.
+2023-12-10 11:06:46.078 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-10 11:06:46.175 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-10 11:06:46.179 [info] Extension host terminating: renderer closed the MessagePort
+2023-12-10 11:06:46.181 [info] Extension host with pid 34316 exiting with code 0
+2023-12-10 11:06:46.185 [info] Eager extensions activated

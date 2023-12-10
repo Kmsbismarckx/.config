@@ -1,0 +1,20 @@
+{
+   "description": {
+      "message": "Enter search requests in the address field and get results from Yandex"
+   },
+   "faviconUrl": {
+      "message": "https://yastatic.net/islands/_/6jyHGXR8-HAc8oJ1bU8qMUQQz_g.ico"
+   },
+   "locale": {
+      "message": "en"
+   },
+   "name": {
+      "message": "Yandex Search"
+   },
+   "searchLocale": {
+      "message": "com"
+   },
+   "searchName": {
+      "message": "Yandex"
+   }
+}

@@ -1,0 +1,247 @@
+2023-12-10 16:22:56.241 [info] Log level: Info
+2023-12-10 16:22:56.241 [info] Validating found git in: "git"
+2023-12-10 16:22:56.241 [info] Using git "2.43.0" from "git"
+2023-12-10 16:22:56.241 [info] > git rev-parse --show-toplevel [9ms]
+2023-12-10 16:22:56.241 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-10 16:22:56.241 [info] > git rev-parse --show-toplevel [3ms]
+2023-12-10 16:22:56.241 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-10 16:22:56.242 [info] > git rev-parse --show-toplevel [15ms]
+2023-12-10 16:22:56.242 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-10 16:22:56.251 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-10 16:22:56.251 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-10 16:22:56.257 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-10 16:22:56.257 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-10 16:22:56.263 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-10 16:22:56.263 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-10 16:22:56.271 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-10 16:22:56.271 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-10 16:22:56.277 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-10 16:22:56.278 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-10 16:22:56.285 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-10 16:22:56.285 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-10 16:22:56.292 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-10 16:22:56.292 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-10 16:22:56.300 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-10 16:22:56.300 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-10 16:22:56.307 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-10 16:22:56.307 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-10 16:22:56.313 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-10 16:22:56.313 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-10 16:22:56.320 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-10 16:22:56.320 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-10 16:22:56.331 [info] > git rev-parse --show-toplevel [4ms]
+2023-12-10 16:22:56.331 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-10 16:22:56.351 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-10 16:22:56.351 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-10 16:22:56.362 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-10 16:22:56.362 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-10 16:22:56.374 [info] > git rev-parse --show-toplevel [4ms]
+2023-12-10 16:22:56.374 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-10 16:22:56.383 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-10 16:22:56.383 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-10 16:22:56.391 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-10 16:22:56.391 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-10 16:22:56.400 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-10 16:22:56.400 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-10 16:22:56.409 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-10 16:22:56.409 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-10 16:22:56.416 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-10 16:22:56.416 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-10 16:22:56.427 [info] > git rev-parse --show-toplevel [0ms]
+2023-12-10 16:22:56.427 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-10 16:22:56.584 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-10 16:22:56.584 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-10 16:23:05.786 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-10 16:23:05.795 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-12-10 16:23:05.809 [info] Open repository: /home/bismarckx/.config
+2023-12-10 16:23:05.821 [info] > git config --get commit.template [4ms]
+2023-12-10 16:23:05.828 [info] No remotes found in the git config file.
+2023-12-10 16:23:05.829 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-12-10 16:23:05.863 [info] > git status -z -uall [27ms]
+2023-12-10 16:23:06.309 [info] > git config --get commit.template [9ms]
+2023-12-10 16:23:06.312 [info] No remotes found in the git config file.
+2023-12-10 16:23:06.319 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-12-10 16:23:06.364 [info] > git status -z -uall [40ms]
+2023-12-10 16:23:06.365 [info] > git check-ignore -v -z --stdin [10ms]
+2023-12-10 16:23:06.456 [info] > git show --textconv :polybar/material/modules.ini [9ms]
+2023-12-10 16:23:06.456 [info] > git ls-files --stage -- /home/bismarckx/.config/polybar/material/modules.ini [3ms]
+2023-12-10 16:23:07.856 [info] No remotes found in the git config file.
+2023-12-10 16:23:07.857 [info] > git config --get commit.template [10ms]
+2023-12-10 16:23:07.858 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-12-10 16:23:07.890 [info] > git status -z -uall [26ms]
+2023-12-10 16:23:12.961 [info] No remotes found in the git config file.
+2023-12-10 16:23:12.961 [info] > git config --get commit.template [8ms]
+2023-12-10 16:23:12.962 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-12-10 16:23:12.993 [info] > git status -z -uall [24ms]
+2023-12-10 16:23:18.063 [info] No remotes found in the git config file.
+2023-12-10 16:23:18.064 [info] > git config --get commit.template [9ms]
+2023-12-10 16:23:18.065 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-12-10 16:23:18.096 [info] > git status -z -uall [22ms]
+2023-12-10 16:23:23.157 [info] > git config --get commit.template [2ms]
+2023-12-10 16:23:23.165 [info] No remotes found in the git config file.
+2023-12-10 16:23:23.166 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-12-10 16:23:23.197 [info] > git status -z -uall [23ms]
+2023-12-10 16:23:28.265 [info] No remotes found in the git config file.
+2023-12-10 16:23:28.266 [info] > git config --get commit.template [11ms]
+2023-12-10 16:23:28.267 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-12-10 16:23:28.301 [info] > git status -z -uall [27ms]
+2023-12-10 16:23:29.002 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-12-10 16:23:33.406 [info] No remotes found in the git config file.
+2023-12-10 16:23:33.408 [info] > git config --get commit.template [26ms]
+2023-12-10 16:23:33.410 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-12-10 16:23:33.476 [info] > git status -z -uall [45ms]
+2023-12-10 16:23:42.594 [info] > git config --get commit.template [3ms]
+2023-12-10 16:23:42.604 [info] No remotes found in the git config file.
+2023-12-10 16:23:42.605 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-12-10 16:23:42.643 [info] > git status -z -uall [27ms]
+2023-12-10 16:23:49.078 [info] > git config --get commit.template [5ms]
+2023-12-10 16:23:49.088 [info] No remotes found in the git config file.
+2023-12-10 16:23:49.089 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-12-10 16:23:49.131 [info] > git status -z -uall [33ms]
+2023-12-10 16:24:16.464 [info] > git config --get commit.template [2ms]
+2023-12-10 16:24:16.473 [info] No remotes found in the git config file.
+2023-12-10 16:24:16.475 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-12-10 16:24:16.533 [info] > git status -z -uall [46ms]
+2023-12-10 16:24:31.002 [info] > git config --get commit.template [1ms]
+2023-12-10 16:24:31.009 [info] No remotes found in the git config file.
+2023-12-10 16:24:31.010 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-12-10 16:24:31.042 [info] > git status -z -uall [26ms]
+2023-12-10 16:24:47.326 [info] > git config --get commit.template [2ms]
+2023-12-10 16:24:47.335 [info] No remotes found in the git config file.
+2023-12-10 16:24:47.336 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-12-10 16:24:47.369 [info] > git status -z -uall [25ms]
+2023-12-10 16:24:52.462 [info] > git config --get commit.template [4ms]
+2023-12-10 16:24:52.482 [info] No remotes found in the git config file.
+2023-12-10 16:24:52.486 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-12-10 16:24:52.546 [info] > git status -z -uall [40ms]
+2023-12-10 16:24:56.185 [info] > git remote add origin https://github.com/Kmsbismarckx/.config.git [4ms]
+2023-12-10 16:24:56.206 [info] > git config --get commit.template [11ms]
+2023-12-10 16:24:56.207 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-12-10 16:24:56.245 [info] > git status -z -uall [30ms]
+2023-12-10 16:24:56.326 [info] > git push -u origin master [16ms]
+2023-12-10 16:24:56.326 [info] error: src refspec master does not match any
+error: failed to push some refs to 'https://github.com/Kmsbismarckx/.config.git'
+2023-12-10 16:24:56.346 [info] > git config --get commit.template [10ms]
+2023-12-10 16:24:56.346 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-12-10 16:24:56.684 [info] > git status -z -uall [332ms]
+2023-12-10 16:25:07.622 [info] > git config --get commit.template [2ms]
+2023-12-10 16:25:07.634 [info] > git ls-files --stage -- /home/bismarckx/.config/polybar/material/modules.ini [3ms]
+2023-12-10 16:25:07.646 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-12-10 16:25:07.683 [info] > git status -z -uall [28ms]
+2023-12-10 16:25:07.764 [info] > git show --textconv :polybar/material/modules.ini [2ms]
+2023-12-10 16:25:12.773 [info] > git config --get commit.template [10ms]
+2023-12-10 16:25:12.774 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-12-10 16:25:12.804 [info] > git status -z -uall [22ms]
+2023-12-10 16:25:17.908 [info] > git config --get commit.template [29ms]
+2023-12-10 16:25:17.910 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-12-10 16:25:17.967 [info] > git status -z -uall [36ms]
+2023-12-10 16:25:23.038 [info] > git config --get commit.template [10ms]
+2023-12-10 16:25:23.038 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-12-10 16:25:23.070 [info] > git status -z -uall [23ms]
+2023-12-10 16:25:28.144 [info] > git config --get commit.template [10ms]
+2023-12-10 16:25:28.145 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-12-10 16:25:28.173 [info] > git status -z -uall [22ms]
+2023-12-10 16:25:33.238 [info] > git config --get commit.template [2ms]
+2023-12-10 16:25:33.249 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-12-10 16:25:33.290 [info] > git status -z -uall [32ms]
+2023-12-10 16:25:38.366 [info] > git config --get commit.template [10ms]
+2023-12-10 16:25:38.367 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-12-10 16:25:38.409 [info] > git status -z -uall [32ms]
+2023-12-10 16:25:43.515 [info] > git config --get commit.template [27ms]
+2023-12-10 16:25:43.517 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-12-10 16:25:43.571 [info] > git status -z -uall [34ms]
+2023-12-10 16:25:46.250 [info] > git show --textconv :polybar/material/modules.ini [24ms]
+2023-12-10 16:25:46.252 [info] > git ls-files --stage -- /home/bismarckx/.config/polybar/material/modules.ini [3ms]
+2023-12-10 16:25:48.682 [info] > git config --get commit.template [29ms]
+2023-12-10 16:25:48.683 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-12-10 16:25:48.723 [info] > git status -z -uall [27ms]
+2023-12-10 16:25:53.806 [info] > git config --get commit.template [4ms]
+2023-12-10 16:25:53.833 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-12-10 16:25:53.894 [info] > git status -z -uall [41ms]
+2023-12-10 16:25:58.967 [info] > git config --get commit.template [10ms]
+2023-12-10 16:25:58.967 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-12-10 16:25:59.001 [info] > git status -z -uall [25ms]
+2023-12-10 16:26:07.106 [info] > git config --get commit.template [26ms]
+2023-12-10 16:26:07.107 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-12-10 16:26:07.165 [info] > git status -z -uall [35ms]
+2023-12-10 16:26:12.226 [info] > git config --get commit.template [1ms]
+2023-12-10 16:26:12.236 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-12-10 16:26:12.272 [info] > git status -z -uall [28ms]
+2023-12-10 16:26:17.372 [info] > git config --get commit.template [27ms]
+2023-12-10 16:26:17.374 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-12-10 16:26:17.433 [info] > git status -z -uall [36ms]
+2023-12-10 16:26:22.533 [info] > git config --get commit.template [11ms]
+2023-12-10 16:26:22.534 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-12-10 16:26:22.564 [info] > git status -z -uall [23ms]
+2023-12-10 16:26:27.637 [info] > git config --get commit.template [10ms]
+2023-12-10 16:26:27.637 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-12-10 16:26:27.672 [info] > git status -z -uall [27ms]
+2023-12-10 16:26:32.789 [info] > git config --get commit.template [21ms]
+2023-12-10 16:26:32.789 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-12-10 16:26:32.826 [info] > git status -z -uall [25ms]
+2023-12-10 16:26:37.929 [info] > git config --get commit.template [25ms]
+2023-12-10 16:26:37.930 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-12-10 16:26:37.990 [info] > git status -z -uall [39ms]
+2023-12-10 16:26:43.084 [info] > git config --get commit.template [12ms]
+2023-12-10 16:26:43.084 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-12-10 16:26:43.119 [info] > git status -z -uall [27ms]
+2023-12-10 16:26:47.208 [info] > git ls-files --stage -- /home/bismarckx/.config/polybar/material/modules.ini [2ms]
+2023-12-10 16:26:47.221 [info] > git show --textconv :polybar/material/modules.ini [2ms]
+2023-12-10 16:26:48.192 [info] > git config --get commit.template [9ms]
+2023-12-10 16:26:48.192 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-12-10 16:26:48.228 [info] > git status -z -uall [28ms]
+2023-12-10 16:26:53.325 [info] > git config --get commit.template [10ms]
+2023-12-10 16:26:53.326 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-12-10 16:26:53.357 [info] > git status -z -uall [24ms]
+2023-12-10 16:26:58.428 [info] > git config --get commit.template [10ms]
+2023-12-10 16:26:58.429 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-12-10 16:26:58.461 [info] > git status -z -uall [23ms]
+2023-12-10 16:27:03.540 [info] > git config --get commit.template [1ms]
+2023-12-10 16:27:03.552 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-12-10 16:27:03.587 [info] > git status -z -uall [26ms]
+2023-12-10 16:27:08.670 [info] > git config --get commit.template [10ms]
+2023-12-10 16:27:08.670 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-12-10 16:27:08.708 [info] > git status -z -uall [30ms]
+2023-12-10 16:27:13.789 [info] > git config --get commit.template [7ms]
+2023-12-10 16:27:13.789 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-12-10 16:27:13.817 [info] > git status -z -uall [22ms]
+2023-12-10 16:27:18.879 [info] > git config --get commit.template [8ms]
+2023-12-10 16:27:18.880 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2023-12-10 16:27:18.907 [info] > git status -z -uall [21ms]
+2023-12-10 16:27:22.342 [info] > git ls-files --stage -- /home/bismarckx/.config/polybar/material/modules.ini [2ms]
+2023-12-10 16:27:22.352 [info] > git cat-file -s 7d250b91f2efe9f9929ab979f90916d4111b82a1 [2ms]
+2023-12-10 16:27:22.364 [info] > git show --textconv :polybar/material/modules.ini [2ms]
+2023-12-10 16:27:23.996 [info] > git config --get commit.template [10ms]
+2023-12-10 16:27:23.997 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-12-10 16:27:24.043 [info] > git status -z -uall [39ms]
+2023-12-10 16:27:29.121 [info] > git config --get commit.template [8ms]
+2023-12-10 16:27:29.122 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-12-10 16:27:29.172 [info] > git status -z -uall [42ms]
+2023-12-10 16:27:34.245 [info] > git config --get commit.template [10ms]
+2023-12-10 16:27:34.246 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-12-10 16:27:34.298 [info] > git status -z -uall [45ms]

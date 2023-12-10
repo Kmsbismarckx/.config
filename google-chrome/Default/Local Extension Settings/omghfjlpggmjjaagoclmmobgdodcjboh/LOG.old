@@ -1,0 +1,12 @@
+2023/12/10-13:11:01.497 14f7 Reusing MANIFEST /home/bismarckx/.config/google-chrome/Default/Local Extension Settings/omghfjlpggmjjaagoclmmobgdodcjboh/MANIFEST-000001
+2023/12/10-13:11:01.497 14f7 Recovering log #34
+2023/12/10-13:11:01.513 14f7 Reusing old log /home/bismarckx/.config/google-chrome/Default/Local Extension Settings/omghfjlpggmjjaagoclmmobgdodcjboh/000034.log 
+2023/12/10-13:11:31.732 14ed Level-0 table #40: started
+2023/12/10-13:11:31.749 14ed Level-0 table #40: 940302 bytes OK
+2023/12/10-13:11:31.757 14ed Delete type=0 #34
+2023/12/10-13:31:41.784 14ed Compacting 1@1 + 1@2 files
+2023/12/10-13:31:41.807 14ed Generated table #41@1: 41 keys, 384816 bytes
+2023/12/10-13:31:41.807 14ed Compacted 1@1 + 1@2 files => 384816 bytes
+2023/12/10-13:31:41.813 14ed compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/12/10-13:31:41.813 14ed Delete type=2 #37
+2023/12/10-13:31:41.813 14ed Delete type=2 #40

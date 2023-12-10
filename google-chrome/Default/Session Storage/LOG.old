@@ -1,0 +1,21 @@
+2023/12/10-13:11:01.019 4 Reusing MANIFEST /home/bismarckx/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2023/12/10-13:11:01.022 4 Recovering log #28
+2023/12/10-13:11:01.023 4 Reusing old log /home/bismarckx/.config/google-chrome/Default/Session Storage/000028.log 
+2023/12/10-13:32:01.379 6 Level-0 table #32: started
+2023/12/10-13:32:01.385 6 Level-0 table #32: 78379 bytes OK
+2023/12/10-13:32:01.392 6 Delete type=0 #28
+2023/12/10-13:32:01.393 6 Compacting 4@0 + 1@1 files
+2023/12/10-13:32:01.403 6 Generated table #33@0: 898 keys, 89289 bytes
+2023/12/10-13:32:01.403 6 Compacted 4@0 + 1@1 files => 89289 bytes
+2023/12/10-13:32:01.410 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/12/10-13:32:01.411 6 Delete type=2 #20
+2023/12/10-13:32:01.411 6 Delete type=2 #23
+2023/12/10-13:32:01.411 6 Delete type=2 #26
+2023/12/10-13:32:01.411 6 Delete type=2 #29
+2023/12/10-13:32:01.411 6 Delete type=2 #32
+2023/12/10-14:39:54.792 6 Level-0 table #35: started
+2023/12/10-14:39:54.810 6 Level-0 table #35: 54765 bytes OK
+2023/12/10-14:39:54.821 6 Delete type=0 #31
+2023/12/10-14:40:50.380 6 Level-0 table #37: started
+2023/12/10-14:40:50.397 6 Level-0 table #37: 51309 bytes OK
+2023/12/10-14:40:50.408 6 Delete type=0 #34

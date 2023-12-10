@@ -1,0 +1,2 @@
+Адмиция
+checksum_v1 = 0cd8503c28897dbffb8d393774799d9a

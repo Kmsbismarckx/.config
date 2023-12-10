@@ -1,0 +1,27 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "icon19.png",
+      "default_popup": "popup.html"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "content.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "description": "Versatile Lorem Ipsum Generator that inserts various types of blind text directly into websites or copies it to the clipboard.",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAt4y7OWpN/qt4As9L+5OLleox452Sl+xYSTJq1GE+rIIJ14URxs8yg5o+7SPzsTHwXuM5jV/n7V0K+vwNdpK1IEaEuyM2l7KheL8qz3Kvk2zlHFu8o9BLJMtpQtGLedcPdMBYSe2RCwksiHJXJ8BjshkwrUNGixbqC/ekkZIJJySPmGwPsQKsCJcxegev8qIaofQI/sWXlAoTGvaB0bYhqZ89RJ3Chac7jrRUz3Ls1ceijQAVg0STC/TTxwXQ/2GRkcsLP+brWD7jf0u/C1R/2aF+FXJ5umWohF7s2OpEEFphl8AKRjCu0YxIieryRoC9vYyNPbnYm5hZJraGkPd5uwIDAQAB",
+   "manifest_version": 2,
+   "name": "Yet Another Lorem Ipsum Generator",
+   "options_page": "options.html",
+   "permissions": [ "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.2"
+}

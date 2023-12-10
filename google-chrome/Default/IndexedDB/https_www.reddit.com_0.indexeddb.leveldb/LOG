@@ -1,0 +1,7 @@
+2023/12/10-14:39:13.695 14ed Reusing MANIFEST /home/bismarckx/.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/10-14:39:13.696 14ed Recovering log #3
+2023/12/10-14:39:13.697 14ed Reusing old log /home/bismarckx/.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000003.log 
+2023/12/10-14:40:29.532 14ec Level-0 table #5: started
+2023/12/10-14:40:29.540 14ec Level-0 table #5: 20262 bytes OK
+2023/12/10-14:40:29.549 14ec Delete type=0 #3
+2023/12/10-14:40:29.549 14ec Manual compaction at level-0 from (begin) .. (end); will stop at (end)

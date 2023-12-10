@@ -1,0 +1,30 @@
+2023/12/10-13:11:00.926 4 Reusing MANIFEST /home/bismarckx/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/12/10-13:11:00.927 4 Recovering log #102
+2023/12/10-13:11:00.928 4 Reusing old log /home/bismarckx/.config/google-chrome/Default/Local Storage/leveldb/000102.log 
+2023/12/10-13:12:13.596 6 Level-0 table #106: started
+2023/12/10-13:12:13.612 6 Level-0 table #106: 35539 bytes OK
+2023/12/10-13:12:13.621 6 Delete type=0 #102
+2023/12/10-13:31:48.308 6 Level-0 table #108: started
+2023/12/10-13:31:48.320 6 Level-0 table #108: 39951 bytes OK
+2023/12/10-13:31:48.330 6 Delete type=0 #105
+2023/12/10-13:36:19.687 6 Level-0 table #110: started
+2023/12/10-13:36:19.693 6 Level-0 table #110: 38752 bytes OK
+2023/12/10-13:36:19.705 6 Delete type=0 #107
+2023/12/10-13:36:19.706 6 Compacting 4@0 + 1@1 files
+2023/12/10-13:36:19.715 6 Generated table #111@0: 262 keys, 207950 bytes
+2023/12/10-13:36:19.715 6 Compacted 4@0 + 1@1 files => 207950 bytes
+2023/12/10-13:36:19.725 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/12/10-13:36:19.726 6 Delete type=2 #100
+2023/12/10-13:36:19.726 6 Delete type=2 #103
+2023/12/10-13:36:19.726 6 Delete type=2 #106
+2023/12/10-13:36:19.726 6 Delete type=2 #108
+2023/12/10-13:36:19.726 6 Delete type=2 #110
+2023/12/10-13:38:17.626 6 Level-0 table #113: started
+2023/12/10-13:38:17.630 6 Level-0 table #113: 44838 bytes OK
+2023/12/10-13:38:17.637 6 Delete type=0 #109
+2023/12/10-14:39:17.379 6 Level-0 table #115: started
+2023/12/10-14:39:17.389 6 Level-0 table #115: 43083 bytes OK
+2023/12/10-14:39:17.400 6 Delete type=0 #112
+2023/12/10-15:32:41.547 6 Level-0 table #117: started
+2023/12/10-15:32:41.552 6 Level-0 table #117: 53928 bytes OK
+2023/12/10-15:32:41.559 6 Delete type=0 #114

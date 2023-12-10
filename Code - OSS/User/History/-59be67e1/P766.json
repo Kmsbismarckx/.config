@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "afterDelay",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "'Material\\-Design\\-Iconic\\-Font','Iosevka Nerd Font','monospace', monospace",
+    "editor.fontSize": 16
+}

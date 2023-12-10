@@ -1,0 +1,260 @@
+{
+   "checksum": "62c86a6b91c240e87a2ef703067428cd",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13334686703535702",
+            "date_last_used": "13346587110446556",
+            "guid": "078c705f-d852-4d1b-a450-14adfb7762a2",
+            "id": "19",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13331913957497409",
+            "date_last_used": "13346587092860027",
+            "guid": "6236b164-5a1b-4707-93ce-015d46d3d7a1",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Лента | LinkedIn",
+            "type": "url",
+            "url": "https://www.linkedin.com/feed/"
+         }, {
+            "date_added": "13345135389369360",
+            "date_last_used": "13346613411826072",
+            "guid": "8cb2b2a9-dcd1-4e2c-b904-9f5f5fd9e7f9",
+            "id": "21",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13315527073261357",
+            "date_last_used": "13344641350932099",
+            "guid": "b002dd4a-5d6a-48e2-9609-a212df3b5853",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Сайт портфолио",
+            "type": "url",
+            "url": "https://kmsbismarckx.github.io/portfolio-page/"
+         }, {
+            "date_added": "13310764387649425",
+            "date_last_used": "13346591326056172",
+            "guid": "1481b721-bfeb-4a2e-a002-c4be4c5075e4",
+            "id": "23",
+            "name": "Заметки",
+            "type": "url",
+            "url": "https://keep.google.com/u/0/#home"
+         }, {
+            "date_added": "13324722560832329",
+            "date_last_used": "0",
+            "guid": "f76efda9-2d92-42c1-ba6b-c35666764ab2",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "REACT DOCS",
+            "type": "url",
+            "url": "https://react.dev/learn"
+         }, {
+            "date_added": "13335541048167193",
+            "date_last_used": "0",
+            "guid": "98216f76-61ae-47f8-8ef2-1c8f81d69c17",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Kliment Maslennikov · GitLab",
+            "type": "url",
+            "url": "https://gitlab.garda.local/kmsbismarckx"
+         }, {
+            "date_added": "13336467396528174",
+            "date_last_used": "0",
+            "guid": "fe4d609c-99cb-4e8f-ab5d-033c632dabaa",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Garda Technologies Cloud",
+            "type": "url",
+            "url": "https://cloud.gardatech.ru/index.php/login?redirect_url=%252Findex.php%252Fapps%252Fonlyoffice%252F469653%253FfilePath%253D%25252FQ.xlsx"
+         }, {
+            "date_added": "13337682266661567",
+            "date_last_used": "0",
+            "guid": "3f69f1ec-012f-41aa-a173-b8c816a3d5a3",
+            "id": "27",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13338460688527471",
+            "date_last_used": "0",
+            "guid": "bc50c79c-f977-4b4d-88c8-59bc0f93ebce",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Figma",
+            "type": "url",
+            "url": "https://www.figma.com/file/7Z230YyoHA4xgNxA4g6ewj/%D0%93%D0%B0%D1%80%D0%B4%D0%B0-%D0%9F%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D1%82%D1%80?type=design&node-id=39-2&mode=design&t=9lHNodikzq1sUpSY-0"
+         } ],
+         "date_added": "13346599177137768",
+         "date_last_used": "0",
+         "date_modified": "13346599191307156",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13330507393233392",
+            "date_last_used": "0",
+            "guid": "f636a16b-e177-41bd-ad21-bbcc64b68e3f",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Попутчики и автобусы площадь Свободы, Нижний Новгород, Нижегородская область, Россия - Выкса, Нижегородская область, Россия | BlaBlaCar",
+            "type": "url",
+            "url": "https://www.blablacar.ru/search?fn=%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C%20%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%8B%2C%20%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%2C%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F&tn=%D0%92%D1%8B%D0%BA%D1%81%D0%B0%2C%20%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%2C%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F&db=2023-06-06&seats=1&search_origin=HOME&transport_type=bus&from_place_id=eyJpIjoiRW5YUXY5QzcwTDdSaWRDdzBMVFJqQ0RRb2RDeTBMN1FzZEMtMExUUml5d2cwSjNRdU5DMjBMM1F1TkM1SU5DZDBMN1FzdEN6MEw3UmdOQy0wTFFzSU5DZDBMalF0dEMxMExQUXZ0R0EwTDdRdE5HQjBMclFzTkdQSU5DLTBMSFF1OUN3MFlIUmd0R01MQ0RRb05DLTBZSFJnZEM0MFk4aUxpb3NDaFFLRWduSENhTU1VZFJSUVJGazJXQ0lIM1RzbkJJVUNoSUpVVElEN3ZuVlVVRVJxbGVXaE1fQTB5ZyIsInAiOjEsInYiOjEsInQiOlsxXX0%3D&to_place_id=eyJpIjoiQ2hJSlU3TFlyNWtxVDBFUlNCUnBGUUgwTDc0IiwicCI6MSwidiI6MSwidCI6W119"
+         }, {
+            "date_added": "13333642961569119",
+            "date_last_used": "0",
+            "guid": "421cd60e-0727-46e9-9dfe-395a0bc3d4de",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Обо мне",
+            "type": "url",
+            "url": "https://nn.hh.ru/applicant/resumes/edit/experience?resume=34138f93ff09ee2ee50039ed1f767845304e71&field=skills"
+         }, {
+            "date_added": "13342801311167665",
+            "date_last_used": "0",
+            "guid": "0c7e0d2d-544c-4d74-a79e-dc61e49e9732",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Отчеты / Профиль / Суммарный отчёт / Профиль",
+            "type": "url",
+            "url": "http://192.168.117.56:8080/#/reports/reports_mo_profile_summary_profile"
+         }, {
+            "date_added": "13346605404221601",
+            "date_last_used": "0",
+            "guid": "76304be1-e6c7-4123-b9be-a2203828392f",
+            "id": "30",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "AUR (en) - rofi-bluetooth-git",
+            "type": "url",
+            "url": "https://aur.archlinux.org/packages/rofi-bluetooth-git"
+         }, {
+            "date_added": "13346685118970819",
+            "date_last_used": "0",
+            "guid": "360273f4-b975-4378-b13c-a09b5e9e83dc",
+            "id": "32",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "batter",
+            "type": "url",
+            "url": "https://zavoloklom.github.io/material-design-iconic-font/cheatsheet.html#application"
+         } ],
+         "date_added": "13346599177137769",
+         "date_last_used": "0",
+         "date_modified": "13346685118970819",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13281627738499849",
+            "date_last_used": "0",
+            "guid": "c5f0d18d-e47e-411c-99a2-39c42b9582d4",
+            "id": "11",
+            "name": "Баланс Друид 9.1.5 PvE гайд Shadowlands",
+            "type": "url",
+            "url": "https://www.allmmorpg.ru/wow/balance-druid-pve-gajd-shadowlands/#8"
+         }, {
+            "date_added": "13287664673902525",
+            "date_last_used": "0",
+            "guid": "0b9c75d1-a094-44cb-b4b5-77539619eb9a",
+            "id": "12",
+            "name": "Кацудон ",
+            "type": "url",
+            "url": "https://www.russianfood.com/recipes/recipe.php?rid=137734"
+         }, {
+            "date_added": "13287664893661736",
+            "date_last_used": "0",
+            "guid": "c325ff5f-2604-49bc-b0d3-21ca2e9edee8",
+            "id": "13",
+            "name": "Тонкацу ",
+            "type": "url",
+            "url": "https://www.russianfood.com/recipes/recipe.php?rid=118883"
+         }, {
+            "date_added": "13300619998376524",
+            "date_last_used": "0",
+            "guid": "6fe04c0f-8319-4969-8711-8529d9adaee3",
+            "id": "14",
+            "name": "Сопротивление движению - число Фруда",
+            "type": "url",
+            "url": "https://www.seaships.ru/frud.htm"
+         }, {
+            "date_added": "13300923430312234",
+            "date_last_used": "0",
+            "guid": "cc567939-0156-4ec5-9db3-9ee0c863e596",
+            "id": "15",
+            "name": "Telegram Web",
+            "type": "url",
+            "url": "https://web.telegram.org/z/"
+         }, {
+            "date_added": "13301139130578344",
+            "date_last_used": "0",
+            "guid": "20c467e5-44fa-4cb2-9dde-061132944b59",
+            "id": "16",
+            "name": "Улучшаем адаптивность сайта с помощью CSS функции…",
+            "type": "url",
+            "url": "https://tproger.ru/articles/uluchshaem-adaptivnost-sajta-s-pomoshhju-css-funkcii-clamp/"
+         }, {
+            "date_added": "13302131946293514",
+            "date_last_used": "0",
+            "guid": "5c0545dd-76fc-4aab-9f88-d2b31b832732",
+            "id": "17",
+            "name": "Руководство для новичков — SS220 Paradise Wiki (SS13)",
+            "type": "url",
+            "url": "https://wiki.ss220.space/index.php/%D0%A0%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE_%D0%B4%D0%BB%D1%8F_%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%BA%D0%BE%D0%B2"
+         }, {
+            "date_added": "13314003952123792",
+            "date_last_used": "0",
+            "guid": "d87956e3-05e7-4470-a2a7-e3c397a12a1d",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How to Deploy React App to GitHub Pages",
+            "type": "url",
+            "url": "https://www.c-sharpcorner.com/article/how-to-deploy-react-application-on-github-pages/"
+         } ],
+         "date_added": "13346599177137770",
+         "date_last_used": "0",
+         "date_modified": "13314003952123792",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Cq8BCo4BCIiBAhKHASAAkgF9CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCWHScbonDAYAEWHScbonDAYAKa5YcronDAYACkUKFmFubm90YXRpb25fY2hyb21lX3N5bmMSBTUxIWJkGhIJgJGVtScMBgARgJGVtScMBgApic9xuicMBgAwgKPWrPuEgwO6AQIIARIAKhhVeC9rSTFpajZtTkd1ZWY0SkVFVG5nPT1IAxLsAQgJEucBChwvMlB5S2ZUYld1WjlLT2JPanRwZWJUbEZTTFU9EmZaOkFEcXRBWno2S2wwc2kvdktFN0RJR3JSZHlDa1V0ZDBwT2x4N2FCODVpMnZMdzkrUnJGT1FuLysyeldibUVMclUvQ2FCZ1piY3RRSGVpem9IcktsbnUxcVVOSWtFajkyVTlnPT0YACAAKAAwzovxnqaJgAM4ofXb0pQxQKH129KUMUocZXhodk5VSnVaYkxHZDV5bERob0kyZEFNUFVzPVofIh2wMHMyRXg4VHZnWHZzOXFVMU1ZZzBMZTJGMS9VPWVDHDt4EqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFad2l4cTlWREI3MGQ5TkJUWElieEtldTczcTNZeGJ3UThjN0NZQlNnWko2UlFndEw4NmRENHhCUzJsckxncjNHUVpmVkRNaBgAIAAoADDZ5++NsIKDAzgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFad2VIVWYvMFg4Nm5OSnRaK2RrcGx0a0ZQN3dxdXRzKzVkQXRSR2JRUkFtUEdNTWRiUlpzU3c2SHpPeVZrbHBpOEdLVWFWVHBJbXRQMXpxbWlmRmxWQkN1K29qWUE9PRgAIAAoADDZ5++NsIKDAzgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFad3BpTER6QVg3VE9ER1lGbktJL2U0Qm94Z1pDS2hpblQzQ2dSSEhrVmw5ZTFwN1lPQzZsbmhoYlRQTXlRMnh5bVgzMjd1SEFQZWYzWXdsN3kyT3ZidFF2ODIxbFE9PRgAIAAoADDZ5++NsIKDAzgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEuwBCAwS5wEKHHlaQW53UGtVbHV0WjNXWnplUG1KVFFNVjdtND0SZlo6QURxdEFaejZLbDBzaS92S0U3RElHclJkeUNrVW5IL2tsdkY2ZnU5cGk3UXloYXpLOGZzMFV0M0RrVlE0bzNPNVk1VmIzOUN6bVpGSk5pMzJ5MWN3SFlvbWw2akhrZTZqNUE9PRgAIAAoADCdjo6FsZH/Ajjw+Meu6S9A8PjHrukvShxUbVc2Nmc4RzdkUGQyN1dRWW9NYjVvSk8vZDA9Wh8iHexpU1FLU2FNRDQyMEVhZHZ3bXpVaGplZGJVUGs9ZZ4clggS7QEIEhLoAQocblM4WjlyU3ZKMmZrQkVFc3diVEprV0o0Qk5RPRJmWjpBRHF0QVp6NktsMHNpL3ZLRTdESUdyUmR5Q2tVSm1uSGNpUVBTNlV2T3N2MFhzakxsRTJMbjczbmhnRkNHVzd3TVZQNkc5cG81dTBGS0VEdGNkYjJzZ3I2SEtPaFRIVUEvdz09GAAgACgAMJ2OjoWxkf8COPzzjb7LMED8842+yzBKHEJQTHIzbUMxRnhNbE5TSERZNDB3U2hRVmJRRT1aICIe/95FaFFSMlY4TGJzZkZRNlBuelAvbDZLNGEranM9ZawsthcS7AEICxLnAQocb3hTaXgrYk1hU2V1N0orTXV5UXhIYkJ4RENvPRJmWjpBRHF0QVp6NktsMHNpL3ZLRTdESUdyUmR5Q2tVVGNHSndVRmtuV2VYNjVlMXM0dUVaRlZ1TERkOG05SWFadkpOQ0oxbDJkOS81OUlKTjlVdVhnMERMcDl0ai85Zi9waFpBdz09GAAgACgAMJ2OjoWxkf8COIXT9u/SL0CF0/bv0i9KHEluRHEyMXFZWlF4eXQxRWNSYVJjWHRhZzN3Zz1aHyId2WJXS0YyN2FJb3hzOTI5T2NKWUhmNW54eEdFTT1l0/RNVBLsAQgNEucBChwwNThqbEtSWHRQR3IxeFFrNzJDQTJUdWg4SDg9EmZaOkFEcXRBWno2S2wwc2kvdktFN0RJR3JSZHlDa1VrWXJQcmZZS3FFdkw4N3hlVm1sZExLdTBXbmI4b1cwRVovelIvdUlIRTczL09UN2t3TzYvV1RSdzRyYjNCKys2cHc2WURnPT0YACAAKAAwnY6OhbGR/wI44K3VrukvQOCt1a7pL0ocdnhRQW9VTk1WVGxXbTdIZ3p1a1ZZZkFPRHRFPVofIh32S0htMDI2SEpzYnhzYzQ1cFRLSGpJcWFLd0w0PWWeHJYIEu0BCBcS6AEKHGd1OVRBTUlSRVVmVmxkMkRRalhpTi8vYmVFOD0SZlo6QURxdEFaejZLbDBzaS92S0U3RElHclJkeUNrVWJ5UFh5cVdvZVJsWGZNbVFhYkdCTTlWYkZrZGRsZDYvVVU0UmpNc3lmOUhGNXZPeUo3QWZjeGhrUU1RZ2UxaE1pYjBMK0E9PRgAIAIoAjCJ7bmRsIKDAzjByq61vzBAop7g9MQxShxXTnhadVg5N1ZHdGw3blVZRTZmM0lVK1laeUU9WiAiHv/adGhnQVlsaDAzVmN2N3VXUUEweFlEVHpTWXg4PWVOpHLiEuwBCA4S5wEKHFN0T0VyYThMbEFBK0tGMkhHRGtrbEltMlhzOD0SZlo6QURxdEFaejZLbDBzaS92S0U3RElHclJkeUNrVXp4Vmw2RjcwUWdWSHJCbERjRDNlbkRTR3FFTEMvaU0xQnNsZkhFL3VmSzdrVmRVMU01Y1U2SENja1NSemhOaTUzaGZKK0E9PRgAIAAoADCdjo6FsZH/AjipmZLQmTBAqZmS0JkwShxtUFRiZ2dnTXhUbVYzWXFDNjk5anFDTGlySlk9Wh8iHftRandFSTdGTlNVZmovcldLYlNQQ2kzRi9UMkE9ZX1rLpQS7AEIHhLnAQocczdOMHROaXM1QmE0cUJDUjFTZHNyNFlpTkdvPRJmWjpBRHF0QVp6NktsMHNpL3ZLRTdESUdyUmR5Q2tVNG51VVd3R0sraWhrbGN0U0NvVjBpMW14T0QyeENJYlRGUExaZjN1S0w0b1pudGpzVm40bzZqSTFYR2pjZUtxdVNRNFd1dz09GAAgAigCMIOVp43HgoMDOL7Q2PfEMUDD0Nj3xDFKHGdqT29aQ2VJRHlEZTRMbERXcjAxaGFWK2huTT1aHyId7FE4Mm9aZlBYamZzSzRKRkIvN2lFMDE0allEMD1lS2EKuxKsAggTEqcCChxCVE1WR2ZJZGdDU1NERDJtRWJabHFYZzU3UjA9EqYBWjpBRHF0QVp3TWE1RGNTdDR0Tzh5eVp5dkRLT1pQRExBdmlSM3NGbkVwWGdyeGpxZ01KcVJKTmpvRzJ1YmNvdVozSlpQR1cyNlp5V3JCT3AwUWxsYjNBR3owZklWaktGSklWeEZYejFPbzZqZXJXZEJhV0VwV2RDYWF4TkF1V25mcDlsa0ZMSEpxU24zVk43ZDZTTDFER29FSFpoTk9wK1RlSEE9PRgAIAIoAjCJ7bmRsIKDAziBlLDHky9AoZ7g9MQxShxKakZIa0tSMmRPSVRSTjVqSm8rVTIzK2FITGc9Wh4iHEVXQXo2S0dxMmNLTmhPUi9aOERQM3lqd1JUVT1lmz2FthLuAQgZEukBChx4ZTRwOEVIT0F2Yzh5VHU1L2o5V3hvVkVTcGc9EmZaOkFEcXRBWno2S2wwc2kvdktFN0RJR3JSZHlDa1U0eHZGbkxuN1NlWFRPbXNKbS9QeXlEMWhFUTJKTmludnZvSWhHYkoydmVtVlIzOCtJZnR6bjdwMmtkbWFSRXB4QTk1VEp3PT0YACACKAIwie25kbCCgwM46Pbl25sxQKOe4PTEMUocNW4yeU9XbGJwdnNJSEdLUkxKQzZIT3cyMWhFPVohIh///7UyV3gvSWdQNVZVZVZ0N1RDZXRhU1huV1JBTVE9ZdEX9zcS7QEIFhLoAQocenVPN2JXc2o1aTdIYURLTU9WODhOWHFFbFdRPRJmWjpBRHF0QVp6NktsMHNpL3ZLRTdESUdyUmR5Q2tVN1hKTDhoNXNFc05QRzhHSWYyMnZGVnNEOWNnZ2cxNjdseFlFRmdkOUpsZ0JyWjF2bWRpL21SK0M5VzJoeTVNVU1Lbm5tQT09GAAgAigCMIntuZGwgoMDOO3rsZTRMECinuD0xDFKHFYydlVrSk8wL1FCRGxKOFJibWhwTGg2aGdqQT1aICIe/bxpanVxVE4rSmxPaFA3cU84TCtQMk1JanhtMnc9ZXAr+OMS7gEIHBLpAQocUFFVYUk1WmRxUWtNbDYwbXEwVEVFUWhZZEpjPRJmWjpBRHF0QVp6NktsMHNpL3ZLRTdESUdyUmR5Q2tVY0J6ZVp5VkpnM3gvWnJxdXQvUkVxVC9ucjRhZzIyR2YraXdkWVhEVkp6SlRLZjhnMU16d2xJT21JSHdnTE5sYzltMEV4QT09GAAgACgAMPuppvPi/4IDOI/R/sumMUCP0f7LpjFKHGVaYXBsbEswQVBNaVpGdlNITTcwbVdscC9xOD1aISIf///9TDY5VHB5OFJXWkRTakVSQldjWkRhT1h5U1dZPWXvAI6HEu4BCBoS6QEKHFRaY0QwMVNrMlpMZEdod2NyN1Z5YzcxVVN6RT0SZlo6QURxdEFaejZLbDBzaS92S0U3RElHclJkeUNrVWlUY0xLZEI1MnlKK0R3c2hWYVl1bmNFb3lLZE1aNFQ2RGFlMnAyclZoWWdnVW0xNzdqK2FpdjcwWU92ckpYakdWcGdPc0E9PRgAIAAoADCBu4KMwP2CAzix38GVnzFAsd/BlZ8xShwwQlB1Tzkxc0lYanlpRkpaTzNZcHpiTlBrRkE9WiEiH///2kpFN1h5cVZ1UXJLTWRyYXR2Um5iVXVKZjZlST1lPgehZhLrAQgIEuYBChx6YWc3SUwrVnRyZk5IaXlPNWpFTHBpS3pqa1U9EmZaOkFEcXRBWno2S2wwc2kvdktFN0RJR3JSZHlDa1V1Z0x0QWp1a2IwRXpNQk1qQXVaVUNqMEFXb2U2NWpvRG9IRkRHSCtkdnNYWUxTNUFCQXJFY25FZE1BU0lLUlA3QUVPUXpnPT0YACAAKAAw+dOrq4Wu/wI40YHI+4gxQNGByPuIMUocYlNqeHNVOFFkQ2ZsNGdPUlQ3cVNadzFwQmFnPVoeIhxhbFV3dllOTk9hVUJUdlh0ZXBaRUIvemllemM9ZQAAAAAS7AEIEBLnAQocb1ZqUm5sS1JlRmJPS0o5Q2s1L0V5dGxlbVljPRJmWjpBRHF0QVp6NktsMHNpL3ZLRTdESUdyUmR5Q2tVMkREWkh0UHBUblVMcTI2QTdXdWhPdlI5bW9xQ0FtZnpJRmhqMkNuKzNTZTdPeWhDdkZJbjM0V2hZV2dvcVV5MWNxQXIyQT09GAAgACgAMJ2OjoWxkf8CONTB18ebMEDUwdfHmzBKHHpmUG5iODFTWFUwbUpleFVRM1RnSnM0MTJMWT1aHyId/zd5cmRTOEZEQlRBMGtGb0xRdWdsTEUwT0kzST1le2lrrhLtAQgYEugBChxEcW5aUHVUSjN6RFdDTU9tVzVRUGdzbGhLM0U9EmZaOkFEcXRBWno2S2wwc2kvdktFN0RJR3JSZHlDa1VRVTZZWDJTZGd2YjFFYWpuNkxVWW03REZPdm1kLy95bHVhOEw2ZU9tdEVrYi9KbmlZVGtTa1l4L0VMSkZwSGhqQmhGbGN3PT0YACACKAIwie25kbCCgwM4wu6RtfMwQKKe4PTEMUocc1h5QndJcWZJVC8waTgrQ2EyMkJuOXU1eDRvPVogIh7//2tiZndqZTFCM0pabnkzZmtKWGJvT1A3dS9Ucz1lyp47/BLuAQgbEukBChxoOERkVW9VOTFKbC9XbWhTZDVCQ3lNbDVBcVE9EmZaOkFEcXRBWno2S2wwc2kvdktFN0RJR3JSZHlDa1V0bk1pS2g0MXQ2dTBvTG00TjNDNHl3NnVnaTUxVGRFZzVIZnJ6eWJZV3d2eEEvSExhTk1qTk9jQWk4WnVURTcwbHh6VTV3PT0YACAAKAAwgbuCjMD9ggM4pcTn2KMxQKXE59ijMUocYUhoVUp1TkRsYzFGNENMT3Bsd3MwSXJhVWUwPVohIh////t6UU00QW9RTnhCTkUvSjRqeTNtTFlNSkFrWjg9ZaT76JgS7AEIFBLnAQocc0JTcXdrU3hqT0lER3I5MmcxMm5oNDUxU1RBPRJmWjpBRHF0QVp6NktsMHNpL3ZLRTdESUdyUmR5Q2tVMTdHNXJhWThaMEhFbklnVlV6aytZM1EzV1MzTnJHRFhveU5Ib29Bd2I1M2M4MWg5N1I4VFZHeS93N3Mybkk1Tm5mUnpvUT09GAAgAigCMIntuZGwgoMDOPnwoZqOMUChnuD0xDFKHEFsNkFQTzY0eURpaTJzdUJubWJMUGVaVHd6ST1aHyIdTDhVZklsZ09DdVJOYWgvYU5KRUc1V3Rpd3FZST1lRU1K0RLsAQggEucBChxGdmEzNm16cVlFWFdwTXNUaUFYbFUrcWo5WlE9EmZaOkFEcXRBWno2S2wwc2kvdktFN0RJR3JSZHlDa1UybjkyckVsU0VzcmhRWTB3ZlJKRHZlcHhFcWlncEUrRUFiOGVlaVMrRDB6UnhPV0dPOXlCTkpoRDhjcnZrOHRSM3hKVUNBPT0YACADKAMwopDGifCEgwM4+4PancUxQMCY2p3FMUocVTVXSGw1NFBMcjlZLzBQUjEvRUZacm0zMGhjPVofIh32eVNXaGhwTHJWZlhFT251UGgwb0pwV3JhamtnPWW4m+TiEuwBCA8S5wEKHEs1TGxja1RsVGExa3RDdXRtc3owbmhBWUlDMD0SZlo6QURxdEFaejZLbDBzaS92S0U3RElHclJkeUNrVUlrU1RTVC9YTlVoRDUzQWJyWHBCZjBLRmFETEs1WVJieGtTQzhBbU5SR2hvSVJJMEFZYXlGMDA0dkJtUW9Gd2pGSUxpWnc9PRgAIAAoADCdjo6FsZH/Ajiqm+rgmjBAqpvq4JowShwrWktHajR0TDZYUzF1d3pJb3BGcFduMHVzV0E9Wh8iHf1uSnk3cm9pN3JabXdUdFJnenhpbXVYNVpkQVE9ZaPH4PwS7AEIERLnAQocMkRaSTBLMWo2VldidUsvbUJ6ZVFwUXVDQWdjPRJmWjpBRHF0QVp6NktsMHNpL3ZLRTdESUdyUmR5Q2tVSXBFOCttZmFMbUc4MzVwd1R4S0tqVlAzV0VuZDAxUEVuVGFqeU9zU3FuU2w2eGtpQmltL3cwejE4c3JwaW9pb3B1akEvdz09GAAgACgAMJ2OjoWxkf8COLWWjKGfMEC1loyhnzBKHG5wQTlNMEwranVqVXdnR0ppeGNnSExSblNNMD1aHyId/3lZc0FZek5sbTBidHJzZktEVmFzekd5djVXdz1lEgvwSRKsAggVEqcCChwyeVZXZGhlT0ZxYUJNM2lFWkR2c1Vxd05LQ0E9EqYBWjpBRHF0QVp3TWE1RGNTdDR0Tzh5eVp5dkRLT1pQRExBdmlSM3NGbkVwWGdyeGpxZ01KZ2lHNWxLd09UZy9DTFJYZG9MVWduUGhZdUlEMjFvNEcvYnpyWmZhYlFOeGNGRnlJNTkwUm9Oa3BWY2p6cVhhaThRa2NPWG1peVNISmI0M2VBc2cwK3REMWlkVnI1L3R0ZHpvakNuQUlNWEt3cjRHb1E9PRgAIAIoAjCJ7bmRsIKDAziBlLDHky9AoZ7g9MQxShxINWM2N2JXVkVuWFVxTDA2aDNadU42aEQvTTA9Wh4iHHdmNjY4VHczVFlyZnVWdTlMdE1jS2VEWmpLbz1lOPk5MxLsAQgKEucBChxXcVFOTG1vcitzakh1RkgrN0ZtTFY1NWR1SVE9EmZaOkFEcXRBWno2S2wwc2kvdktFN0RJR3JSZHlDa1VpcTdSK0JaY1NqM1JnSjh3ZjVCbXFWQUNNbDh5UmRJZ1k0Qk9BRVBuSzVUSEV3MlhIME5pekdQUDg3YVFHL0VSTmVqKy9nPT0YACAAKAAwyZzI3uuTggM4v5vh4bYxQL+b4eG2MUocUjBZajBpQUdIbE9xellnQ1M4c3FyTEx1T2FrPVofIh3YRU5oSFoxaU40U2pGYWRJRHh3dEl2Z3N4YS9RPWUAAAAAMAE4AA==",
+   "version": 1
+}

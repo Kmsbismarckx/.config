@@ -1,0 +1,28 @@
+2023-12-10 12:34:54.080 [info] Getting Manifest... timonwong.shellcheck
+2023-12-10 12:34:54.237 [info] Installing extension: timonwong.shellcheck
+2023-12-10 12:34:55.910 [info] Extension signature verification is not done: timonwong.shellcheck
+2023-12-10 12:34:56.137 [info] Extracted extension to file:///home/bismarckx/.vscode-oss/extensions/timonwong.shellcheck-0.35.0-linux-x64: timonwong.shellcheck
+2023-12-10 12:34:56.143 [info] Renamed to /home/bismarckx/.vscode-oss/extensions/timonwong.shellcheck-0.35.0-linux-x64
+2023-12-10 12:34:56.145 [info] Extracting extension completed. timonwong.shellcheck
+2023-12-10 12:34:56.157 [info] Extension installed successfully: timonwong.shellcheck
+2023-12-10 12:34:56.230 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/bismarckx/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/bismarckx/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2023-12-10 15:26:36.197 [info] Getting Manifest... k--kato.intellij-idea-keybindings
+2023-12-10 15:26:36.342 [info] Installing extension: k--kato.intellij-idea-keybindings
+2023-12-10 15:26:37.254 [info] Extension signature verification is not done: k--kato.intellij-idea-keybindings
+2023-12-10 15:26:37.335 [info] Extracted extension to file:///home/bismarckx/.vscode-oss/extensions/k--kato.intellij-idea-keybindings-1.5.12-universal: k--kato.intellij-idea-keybindings
+2023-12-10 15:26:37.341 [info] Renamed to /home/bismarckx/.vscode-oss/extensions/k--kato.intellij-idea-keybindings-1.5.12-universal
+2023-12-10 15:26:37.345 [info] Extracting extension completed. k--kato.intellij-idea-keybindings
+2023-12-10 15:26:37.357 [info] Extension installed successfully: k--kato.intellij-idea-keybindings
+2023-12-10 15:26:37.432 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/bismarckx/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/bismarckx/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)

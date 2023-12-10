@@ -1,0 +1,40 @@
+{
+   "background": {
+      "scripts": [ "background/backend.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "logo/browser_action/ru/19.png",
+         "38": "logo/browser_action/ru/38.png"
+      }
+   },
+   "chrome_settings_overrides": {
+      "search_provider": {
+         "encoding": "UTF-8",
+         "favicon_url": "https://yastatic.net/islands/_/aKnllxm-gQhidpzbZqub7qe641g.ico",
+         "image_url": "https://yandex.ru/images/search?rpt=imageview&cbird=5&clid=2220366",
+         "image_url_post_params": "upfile={google:imageThumbnail},original_width={google:imageOriginalWidth},original_height={google:imageOriginalHeight},prg=1",
+         "is_default": true,
+         "keyword": "yandex.ru",
+         "name": "__MSG_searchName__",
+         "prepopulated_id": 15,
+         "search_url": "https://yandex.ru/search/?from=chromesearch&clid=2196598&text={searchTerms}",
+         "suggest_url": "https://suggest.yandex.net/suggest-ff.cgi?uil=ru&part={searchTerms}"
+      }
+   },
+   "default_locale": "ru",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "logo/ru/128.png",
+      "16": "logo/ru/16.png",
+      "48": "logo/ru/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuFrLLeHiGaUtqjdSl2m9j44fZfqA6a6fX+JQVevpBtQcZPJctL6uCmVxiBfrRlGrbYV0p2EUZLA9QfWN/0746IHxsBg5p1+hRpQpgOX9pk9VrjI8QAbnW65wVgy/t2QgyPAzTP62EkghROIU1f5k2E6IEG9K9ySxYM2Kukz6gfMpAqjYHLsDYat0M13lCO5dNH+scxEtLG2MVHsIxV33Aw4S78cdJKFhrzc1jpR+vOfSbUp/HnfLzHNFFOJGfVSOwAo1nKm1ikurrkUnFJSDSv2bayS39aBpSo5ZIP1gO+EpemQuy9V8WqQSjjbEkgXOtXNHaqbYI4IpbispDRAkjQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "36",
+   "name": "__MSG_name__",
+   "permissions": [ "cookies", "tabs", "*://chrome-elements.yandex.addons/", "*://*.yandex.ru/", "*://*.yandex.kz/", "*://*.yandex.ua/", "*://*.yandex.by/", "*://*.yandex.uz/", "*://*.yandex.net/", "*://*.yandex.com/", "*://*.yandex.com.tr/", "*://*.ya.ru/", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "8.24.14",
+   "web_accessible_resources": [ "logo/*", "includes/*" ]
+}

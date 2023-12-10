@@ -1,0 +1,14 @@
+2023-12-10 11:11:47.337 [info] Getting Manifest... pkief.material-icon-theme
+2023-12-10 11:11:47.512 [info] Installing extension: pkief.material-icon-theme
+2023-12-10 11:11:48.661 [info] Extension signature verification is not done: pkief.material-icon-theme
+2023-12-10 11:11:49.347 [info] Extracted extension to file:///home/bismarckx/.vscode-oss/extensions/pkief.material-icon-theme-4.32.0-universal: pkief.material-icon-theme
+2023-12-10 11:11:49.363 [info] Renamed to /home/bismarckx/.vscode-oss/extensions/pkief.material-icon-theme-4.32.0-universal
+2023-12-10 11:11:49.369 [info] Extracting extension completed. pkief.material-icon-theme
+2023-12-10 11:11:49.386 [info] Extension installed successfully: pkief.material-icon-theme
+2023-12-10 11:11:49.459 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/bismarckx/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/bismarckx/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)

@@ -8,7 +8,7 @@ super + Return
 
 # program launcher
 super + d
-	rofi -show drun
+	rofi -no-config -no-lazy-grab -show drun -modi drun -theme ~/.config/polybar/material/scripts/rofi/launcher.rasi
 
 # browser 
 super + g
@@ -133,6 +133,8 @@ super + alt + shift + {h,j,k,l}
 super + {Left,Down,Up,Right}
 	bspc node -v {-20 0,0 20,0 -20,20 0}
 
+Print
+	maim ~/Images/$(date +%s).png
 # F-keys
 
 #Volume Control
@@ -156,3 +158,6 @@ XF86MonBrightnessDown
 
 XF86MonBrightnessUp
 	xbacklight -inc 10%
+
+
+	

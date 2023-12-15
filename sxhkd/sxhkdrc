@@ -8,7 +8,7 @@ super + Return
 
 # program launcher
 super + d
-	rofi -no-config -no-lazy-grab -show drun -modi drun -theme ~/.config/polybar/material/scripts/rofi/launcher.rasi
+	rofi -no-config -no-lazy-grab -show drun -modi drun -theme ~/.config/rofi/themes/rofi-bismarckx.rasi
 
 # browser 
 super + g
@@ -21,7 +21,7 @@ super + t
 # explorer
 
 super + e
-	mc
+	alacritty -e mc
 
 # make sxhkd reload its configuration files:
 super + Escape

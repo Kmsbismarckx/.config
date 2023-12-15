@@ -5,11 +5,11 @@
 * {
     background-color:       @bg;
     text-color:             @fg;
-	font:				 	"Fantasque Sans Mono 10";
+	font:                   "JetBrains Mono 11";
 }
 
 window {
-    width:      			225px;
+    width:      			235px;
     padding:    			25px;
     border:					1px;
     border-radius:          0px;

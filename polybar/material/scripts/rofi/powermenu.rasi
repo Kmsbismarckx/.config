@@ -1,14 +1,5 @@
-/*
- *
- * Author  : Aditya Shakya
- * Mail    : adi1090x@gmail.com
- * Github  : @adi1090x
- * Twitter : @adi1090x
- *
- */
-
 configuration {
-	font:							"Fantasque Sans Mono 10";
+	font:                           "JetBrains Mono 11";
     show-icons:                     true;
 	icon-theme: 					"Papirus";
     drun-display-format:            "{name}";

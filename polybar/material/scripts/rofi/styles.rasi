@@ -1,11 +1,4 @@
-/*
- *
- * Author  : Aditya Shakya
- * Mail    : adi1090x@gmail.com
- * Github  : @adi1090x
- * Twitter : @adi1090x
- *
- */
+@import "~/.config/rofi/global.rasi"
 
 configuration {
 	font:							"Fantasque Sans Mono 10";

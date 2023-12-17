@@ -1,8 +1,4 @@
-configuration {
-    font:   "JetBrains Mono 11";
-    show-icons: true;
-    icon-theme: "Papirus";
-}
+@import "~/.config/rofi/global.rasi"
 
 * {
 

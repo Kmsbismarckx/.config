@@ -1,11 +1,11 @@
 /* Confirm Dialog */
 
 @import "colors.rasi"
+@import "~/.config/rofi/global.rasi"
 
 * {
     background-color:       @bg;
     text-color:             @fg;
-	font:                   "JetBrains Mono 11";
 }
 
 window {

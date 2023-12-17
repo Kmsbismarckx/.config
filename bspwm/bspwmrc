@@ -5,6 +5,7 @@ pgrep -x sxhkd > /dev/null || sxhkd &
 bspc monitor -d I II III IV V VI VII VIII
 
 nitrogen --restore &
+dunst -config "~/.config/dunst/dunstrc" &
 picom --config ~/.config/picom/picom.conf &
 setxkbmap -option grp:alt_shift_toggle us,ru &
 xsetroot -cursor_name left_ptr &

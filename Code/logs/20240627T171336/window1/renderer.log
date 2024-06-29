@@ -1,0 +1,228 @@
+2024-06-27 17:13:36.959 [info] Started local extension host with pid 6002.
+2024-06-27 17:13:37.026 [warning] [well-ar.plantuml]: Cannot register 'plantuml.exportFormat'. This property is already registered.
+2024-06-27 17:13:37.027 [warning] [well-ar.plantuml]: Cannot register 'plantuml.java'. This property is already registered.
+2024-06-27 17:13:37.027 [warning] [well-ar.plantuml]: Cannot register 'plantuml.jar'. This property is already registered.
+2024-06-27 17:13:37.027 [warning] [well-ar.plantuml]: Cannot register 'plantuml.diagramsRoot'. This property is already registered.
+2024-06-27 17:13:37.027 [warning] [well-ar.plantuml]: Cannot register 'plantuml.fileExtensions'. This property is already registered.
+2024-06-27 17:13:37.028 [warning] [well-ar.plantuml]: Cannot register 'plantuml.exportSubFolder'. This property is already registered.
+2024-06-27 17:13:37.028 [warning] [well-ar.plantuml]: Cannot register 'plantuml.exportIncludeFolderHeirarchy'. This property is already registered.
+2024-06-27 17:13:37.028 [warning] [well-ar.plantuml]: Cannot register 'plantuml.exportConcurrency'. This property is already registered.
+2024-06-27 17:13:37.029 [warning] [well-ar.plantuml]: Cannot register 'plantuml.exportOutDir'. This property is already registered.
+2024-06-27 17:13:37.029 [warning] [well-ar.plantuml]: Cannot register 'plantuml.exportMapFile'. This property is already registered.
+2024-06-27 17:13:37.029 [warning] [well-ar.plantuml]: Cannot register 'plantuml.previewAutoUpdate'. This property is already registered.
+2024-06-27 17:13:37.029 [warning] [well-ar.plantuml]: Cannot register 'plantuml.previewSnapIndicators'. This property is already registered.
+2024-06-27 17:13:37.030 [warning] [well-ar.plantuml]: Cannot register 'plantuml.server'. This property is already registered.
+2024-06-27 17:13:37.031 [warning] [well-ar.plantuml]: Cannot register 'plantuml.urlFormat'. This property is already registered.
+2024-06-27 17:13:37.031 [warning] [well-ar.plantuml]: Cannot register 'plantuml.urlResult'. This property is already registered.
+2024-06-27 17:13:37.031 [warning] [well-ar.plantuml]: Cannot register 'plantuml.render'. This property is already registered.
+2024-06-27 17:13:37.031 [warning] [well-ar.plantuml]: Cannot register 'plantuml.includepaths'. This property is already registered.
+2024-06-27 17:13:37.032 [warning] [well-ar.plantuml]: Cannot register 'plantuml.lintDiagramNoName'. This property is already registered.
+2024-06-27 17:13:37.032 [warning] [well-ar.plantuml]: Cannot register 'plantuml.commandArgs'. This property is already registered.
+2024-06-27 17:13:37.032 [warning] [well-ar.plantuml]: Cannot register 'plantuml.jarArgs'. This property is already registered.
+2024-06-27 17:13:37.063 [info] [well-ar.plantuml]: Command `plantuml.exportCurrent` already registered by PlantUML (jebbs.plantuml)
+2024-06-27 17:13:37.064 [info] [well-ar.plantuml]: Command `plantuml.exportDocument` already registered by PlantUML (jebbs.plantuml)
+2024-06-27 17:13:37.064 [info] [well-ar.plantuml]: Command `plantuml.exportWorkspace` already registered by PlantUML (jebbs.plantuml)
+2024-06-27 17:13:37.064 [info] [well-ar.plantuml]: Command `plantuml.preview` already registered by PlantUML (jebbs.plantuml)
+2024-06-27 17:13:37.064 [info] [well-ar.plantuml]: Command `plantuml.URLCurrent` already registered by PlantUML (jebbs.plantuml)
+2024-06-27 17:13:37.064 [info] [well-ar.plantuml]: Command `plantuml.URLDocument` already registered by PlantUML (jebbs.plantuml)
+2024-06-27 17:13:37.064 [info] [well-ar.plantuml]: Command `plantuml.extractSource` already registered by PlantUML (jebbs.plantuml)
+2024-06-27 17:13:37.990 [error] [hollowtree.vue-snippets]: Unknown language in `contributes.vue-snippets.language`. Provided value: vue-html
+2024-06-27 17:13:39.717 [info] [perf] Render performance baseline is 36ms
+2024-06-27 17:29:19.558 [error] <semantic> TypeScript Server Error (5.4.5)
+BADCLIENT: Bad error code, 7028 not found in range 1327..1340 (found: false, 1155, false); could have caused this error:
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isLabeledStatement'.
+Error: BADCLIENT: Bad error code, 7028 not found in range 1327..1340 (found: false, 1155, false); could have caused this error:
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isLabeledStatement'.
+    at cast (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:3493:16)
+    at doChange28 (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:155702:28)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:155694:79
+    at _ChangeTracker.with (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:170624:5)
+    at Object.getCodeActions (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:155694:62)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:148588:46
+    at flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:2609:17)
+    at Object.getFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:148588:10)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146859:33
+    at flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:2609:17)
+    at Object.getCodeFixesAtPosition (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146857:12)
+    at e.getCodeFixesAtPosition (/home/bismarckx/.vscode/extensions/vue.volar-2.0.22/node_modules/typescript-vue-plugin-bundle/index.js:5:2865)
+    at e.getCodeFixesAtPosition (/home/bismarckx/.vscode/extensions/vue.volar-2.0.22/node_modules/typescript-vue-plugin-bundle/index.js:280:73)
+    at IpcIOSession.getCodeFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187265:50)
+    at getCodeFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185371:43)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187569:69
+    at IpcIOSession.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187561:14)
+    at IpcIOSession.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187569:29)
+    at IpcIOSession.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187611:51)
+    at process.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:189220:14)
+    at process.emit (node:events:514:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21): Error: <semantic> TypeScript Server Error (5.4.5)
+BADCLIENT: Bad error code, 7028 not found in range 1327..1340 (found: false, 1155, false); could have caused this error:
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isLabeledStatement'.
+Error: BADCLIENT: Bad error code, 7028 not found in range 1327..1340 (found: false, 1155, false); could have caused this error:
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isLabeledStatement'.
+    at cast (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:3493:16)
+    at doChange28 (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:155702:28)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:155694:79
+    at _ChangeTracker.with (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:170624:5)
+    at Object.getCodeActions (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:155694:62)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:148588:46
+    at flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:2609:17)
+    at Object.getFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:148588:10)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146859:33
+    at flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:2609:17)
+    at Object.getCodeFixesAtPosition (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146857:12)
+    at e.getCodeFixesAtPosition (/home/bismarckx/.vscode/extensions/vue.volar-2.0.22/node_modules/typescript-vue-plugin-bundle/index.js:5:2865)
+    at e.getCodeFixesAtPosition (/home/bismarckx/.vscode/extensions/vue.volar-2.0.22/node_modules/typescript-vue-plugin-bundle/index.js:280:73)
+    at IpcIOSession.getCodeFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187265:50)
+    at getCodeFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185371:43)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187569:69
+    at IpcIOSession.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187561:14)
+    at IpcIOSession.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187569:29)
+    at IpcIOSession.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187611:51)
+    at process.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:189220:14)
+    at process.emit (node:events:514:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+    at Function.create (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:473212)
+    at v.dispatchResponse (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:467182)
+    at v.dispatchMessage (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:466026)
+    at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:465519)
+    at ChildProcess.emit (node:events:514:28)
+    at ChildProcess.emit (node:domain:488:12)
+    at emit (node:internal/child_process:951:14)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-06-27 17:32:07.853 [error] <semantic> TypeScript Server Error (5.4.5)
+BADCLIENT: Bad error code, 7028 not found in range 1335..1354 (found: false, false, false, false); could have caused this error:
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isLabeledStatement'.
+Error: BADCLIENT: Bad error code, 7028 not found in range 1335..1354 (found: false, false, false, false); could have caused this error:
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isLabeledStatement'.
+    at cast (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:3493:16)
+    at doChange28 (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:155702:28)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:155694:79
+    at _ChangeTracker.with (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:170624:5)
+    at Object.getCodeActions (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:155694:62)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:148588:46
+    at flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:2609:17)
+    at Object.getFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:148588:10)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146859:33
+    at flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:2609:17)
+    at Object.getCodeFixesAtPosition (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146857:12)
+    at e.getCodeFixesAtPosition (/home/bismarckx/.vscode/extensions/vue.volar-2.0.22/node_modules/typescript-vue-plugin-bundle/index.js:5:2865)
+    at e.getCodeFixesAtPosition (/home/bismarckx/.vscode/extensions/vue.volar-2.0.22/node_modules/typescript-vue-plugin-bundle/index.js:280:73)
+    at IpcIOSession.getCodeFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187265:50)
+    at getCodeFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185371:43)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187569:69
+    at IpcIOSession.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187561:14)
+    at IpcIOSession.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187569:29)
+    at IpcIOSession.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187611:51)
+    at process.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:189220:14)
+    at process.emit (node:events:514:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21): Error: <semantic> TypeScript Server Error (5.4.5)
+BADCLIENT: Bad error code, 7028 not found in range 1335..1354 (found: false, false, false, false); could have caused this error:
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isLabeledStatement'.
+Error: BADCLIENT: Bad error code, 7028 not found in range 1335..1354 (found: false, false, false, false); could have caused this error:
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isLabeledStatement'.
+    at cast (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:3493:16)
+    at doChange28 (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:155702:28)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:155694:79
+    at _ChangeTracker.with (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:170624:5)
+    at Object.getCodeActions (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:155694:62)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:148588:46
+    at flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:2609:17)
+    at Object.getFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:148588:10)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146859:33
+    at flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:2609:17)
+    at Object.getCodeFixesAtPosition (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146857:12)
+    at e.getCodeFixesAtPosition (/home/bismarckx/.vscode/extensions/vue.volar-2.0.22/node_modules/typescript-vue-plugin-bundle/index.js:5:2865)
+    at e.getCodeFixesAtPosition (/home/bismarckx/.vscode/extensions/vue.volar-2.0.22/node_modules/typescript-vue-plugin-bundle/index.js:280:73)
+    at IpcIOSession.getCodeFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187265:50)
+    at getCodeFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185371:43)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187569:69
+    at IpcIOSession.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187561:14)
+    at IpcIOSession.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187569:29)
+    at IpcIOSession.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187611:51)
+    at process.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:189220:14)
+    at process.emit (node:events:514:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+    at Function.create (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:473212)
+    at v.dispatchResponse (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:467182)
+    at v.dispatchMessage (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:466026)
+    at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:465519)
+    at ChildProcess.emit (node:events:514:28)
+    at ChildProcess.emit (node:domain:488:12)
+    at emit (node:internal/child_process:951:14)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-06-27 17:33:22.397 [error] <semantic> TypeScript Server Error (5.4.5)
+BADCLIENT: Bad error code, 7028 not found in range 1397..1406 (found: false, false, 6133, false); could have caused this error:
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isLabeledStatement'.
+Error: BADCLIENT: Bad error code, 7028 not found in range 1397..1406 (found: false, false, 6133, false); could have caused this error:
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isLabeledStatement'.
+    at cast (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:3493:16)
+    at doChange28 (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:155702:28)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:155694:79
+    at _ChangeTracker.with (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:170624:5)
+    at Object.getCodeActions (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:155694:62)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:148588:46
+    at flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:2609:17)
+    at Object.getFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:148588:10)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146859:33
+    at flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:2609:17)
+    at Object.getCodeFixesAtPosition (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146857:12)
+    at e.getCodeFixesAtPosition (/home/bismarckx/.vscode/extensions/vue.volar-2.0.22/node_modules/typescript-vue-plugin-bundle/index.js:5:2865)
+    at e.getCodeFixesAtPosition (/home/bismarckx/.vscode/extensions/vue.volar-2.0.22/node_modules/typescript-vue-plugin-bundle/index.js:280:73)
+    at IpcIOSession.getCodeFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187265:50)
+    at getCodeFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185371:43)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187569:69
+    at IpcIOSession.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187561:14)
+    at IpcIOSession.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187569:29)
+    at IpcIOSession.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187611:51)
+    at process.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:189220:14)
+    at process.emit (node:events:514:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21): Error: <semantic> TypeScript Server Error (5.4.5)
+BADCLIENT: Bad error code, 7028 not found in range 1397..1406 (found: false, false, 6133, false); could have caused this error:
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isLabeledStatement'.
+Error: BADCLIENT: Bad error code, 7028 not found in range 1397..1406 (found: false, false, 6133, false); could have caused this error:
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isLabeledStatement'.
+    at cast (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:3493:16)
+    at doChange28 (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:155702:28)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:155694:79
+    at _ChangeTracker.with (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:170624:5)
+    at Object.getCodeActions (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:155694:62)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:148588:46
+    at flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:2609:17)
+    at Object.getFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:148588:10)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146859:33
+    at flatMap (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:2609:17)
+    at Object.getCodeFixesAtPosition (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146857:12)
+    at e.getCodeFixesAtPosition (/home/bismarckx/.vscode/extensions/vue.volar-2.0.22/node_modules/typescript-vue-plugin-bundle/index.js:5:2865)
+    at e.getCodeFixesAtPosition (/home/bismarckx/.vscode/extensions/vue.volar-2.0.22/node_modules/typescript-vue-plugin-bundle/index.js:280:73)
+    at IpcIOSession.getCodeFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187265:50)
+    at getCodeFixes (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:185371:43)
+    at /opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187569:69
+    at IpcIOSession.executeWithRequestId (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187561:14)
+    at IpcIOSession.executeCommand (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187569:29)
+    at IpcIOSession.onMessage (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:187611:51)
+    at process.<anonymous> (/opt/visual-studio-code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:189220:14)
+    at process.emit (node:events:514:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+    at Function.create (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:473212)
+    at v.dispatchResponse (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:467182)
+    at v.dispatchMessage (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:466026)
+    at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:465519)
+    at ChildProcess.emit (node:events:514:28)
+    at ChildProcess.emit (node:domain:488:12)
+    at emit (node:internal/child_process:951:14)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-06-27 17:44:31.566 [error] Illegal argument: range: Error: Illegal argument: range
+    at d (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1029)
+    at new mt (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:25818)
+    at be (/home/bismarckx/.vscode/extensions/vue.volar-2.0.22/dist/client.js:38:582)
+    at o (/home/bismarckx/.vscode/extensions/vue.volar-2.0.22/dist/client.js:37:22429)
+    at Object.oD [as map] (/home/bismarckx/.vscode/extensions/vue.volar-2.0.22/dist/client.js:37:22515)
+    at Object.ye [as asColorInformations] (/home/bismarckx/.vscode/extensions/vue.volar-2.0.22/dist/client.js:38:666)
+    at /home/bismarckx/.vscode/extensions/vue.volar-2.0.22/dist/client.js:41:76179
+    at ue.provideColors (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:124253)

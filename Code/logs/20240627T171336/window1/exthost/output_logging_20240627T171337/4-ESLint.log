@@ -1,0 +1,58 @@
+[Info  - 5:13:38 PM] ESLint server is starting.
+[Info  - 5:13:39 PM] ESLint server running in node v20.9.0
+[Info  - 5:13:39 PM] ESLint server is running.
+[Warn  - 5:17:12 PM] Detected package manager() differs from the one in the deprecated packageManager setting(npm). We will honor this setting until it is removed.
+[object Object]
+[Info  - 5:17:12 PM] 
+Failed to load the ESLint library for the document /home/bismarckx/Projects/vue/src/main.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder vue
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+Alternatively you can disable ESLint for the workspace folder vue by executing the 'Disable ESLint' command.
+[Warn  - 5:17:58 PM] Detected package manager() differs from the one in the deprecated packageManager setting(npm). We will honor this setting until it is removed.
+[object Object]
+[Info  - 5:17:58 PM] 
+Failed to load the ESLint library for the document /home/bismarckx/Projects/vue/src/mixins/toggleMixin.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder vue
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+Alternatively you can disable ESLint for the workspace folder vue by executing the 'Disable ESLint' command.
+[Warn  - 5:50:14 PM] Detected package manager() differs from the one in the deprecated packageManager setting(npm). We will honor this setting until it is removed.
+[object Object]
+[Info  - 5:50:14 PM] 
+Failed to load the ESLint library for the document /home/bismarckx/Projects/vue/src/router/router.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder vue
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+Alternatively you can disable ESLint for the workspace folder vue by executing the 'Disable ESLint' command.
+[Warn  - 5:50:53 PM] Detected package manager() differs from the one in the deprecated packageManager setting(npm). We will honor this setting until it is removed.
+[object Object]
+[Info  - 5:50:53 PM] 
+Failed to load the ESLint library for the document /home/bismarckx/Projects/vue/src/router/router.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder vue
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+Alternatively you can disable ESLint for the workspace folder vue by executing the 'Disable ESLint' command.
+[Warn  - 5:51:05 PM] Detected package manager() differs from the one in the deprecated packageManager setting(npm). We will honor this setting until it is removed.
+[object Object]
+[Info  - 5:51:05 PM] 
+Failed to load the ESLint library for the document /home/bismarckx/Projects/vue/src/router/router.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder vue
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+Alternatively you can disable ESLint for the workspace folder vue by executing the 'Disable ESLint' command.
+[Warn  - 5:52:26 PM] Detected package manager() differs from the one in the deprecated packageManager setting(npm). We will honor this setting until it is removed.
+[object Object]
+[Info  - 5:52:26 PM] 
+Failed to load the ESLint library for the document /home/bismarckx/Projects/vue/src/Router.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder vue
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+Alternatively you can disable ESLint for the workspace folder vue by executing the 'Disable ESLint' command.
+[Info  - 6:14:38 PM] ESLint server stopped.

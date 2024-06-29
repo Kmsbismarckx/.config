@@ -1,0 +1,6 @@
+2024/06/24-17:16:38.144 ccd Creating DB /home/bismarckx/.config/chromium/Default/IndexedDB/https_www.dns-shop.ru_0.indexeddb.leveldb since it was missing.
+2024/06/24-17:16:38.146 ccd Reusing MANIFEST /home/bismarckx/.config/chromium/Default/IndexedDB/https_www.dns-shop.ru_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/24-17:16:44.883 cce Level-0 table #5: started
+2024/06/24-17:16:44.885 cce Level-0 table #5: 2648 bytes OK
+2024/06/24-17:16:44.886 cce Delete type=0 #3
+2024/06/24-17:16:44.887 cce Manual compaction at level-0 from (begin) .. (end); will stop at (end)

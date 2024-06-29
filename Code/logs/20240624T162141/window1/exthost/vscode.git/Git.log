@@ -1,0 +1,23 @@
+2024-06-24 16:21:43.909 [info] Log level: Info
+2024-06-24 16:21:43.910 [info] Validating found git in: "git"
+2024-06-24 16:21:43.910 [info] Using git "2.45.2" from "git"
+2024-06-24 16:21:43.910 [info] > git rev-parse --show-toplevel [6ms]
+2024-06-24 16:21:43.910 [info] > git rev-parse --git-dir --git-common-dir [261ms]
+2024-06-24 16:21:43.910 [info] Open repository: /home/bismarckx/Projects/vue
+2024-06-24 16:21:43.911 [info] > git rev-parse --show-toplevel [11ms]
+2024-06-24 16:21:43.911 [info] > git config --get commit.template [21ms]
+2024-06-24 16:21:43.966 [info] No remotes found in the git config file.
+2024-06-24 16:21:43.969 [info] > git rev-parse --show-toplevel [29ms]
+2024-06-24 16:21:43.984 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [18ms]
+2024-06-24 16:21:43.984 [warning] No such branch: master.
+2024-06-24 16:21:43.992 [info] > git rev-parse --show-toplevel [9ms]
+2024-06-24 16:21:43.995 [info] > git status -z -uall [5ms]
+2024-06-24 16:21:44.031 [info] > git config --get commit.template [2ms]
+2024-06-24 16:21:44.069 [info] No remotes found in the git config file.
+2024-06-24 16:21:44.080 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-06-24 16:21:44.080 [warning] No such branch: master.
+2024-06-24 16:21:44.091 [info] > git status -z -uall [6ms]
+2024-06-24 16:21:44.414 [info] > git show --textconv :src/App.vue [7ms]
+2024-06-24 16:21:44.415 [info] > git ls-files --stage -- /home/bismarckx/Projects/vue/src/App.vue [1ms]
+2024-06-24 16:21:44.424 [info] > git cat-file -s a753dbabb8c110d9f134b22036ec2bb2f06f0240 [2ms]
+2024-06-24 16:21:44.438 [info] > git check-ignore -v -z --stdin [1ms]

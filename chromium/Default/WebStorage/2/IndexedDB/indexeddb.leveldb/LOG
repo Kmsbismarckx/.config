@@ -1,0 +1,15 @@
+2024/06/29-17:28:57.721 10099b Reusing MANIFEST /home/bismarckx/.config/chromium/Default/WebStorage/2/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/06/29-17:28:57.722 10099b Recovering log #4
+2024/06/29-17:28:57.722 10099b Reusing old log /home/bismarckx/.config/chromium/Default/WebStorage/2/IndexedDB/indexeddb.leveldb/000004.log 
+2024/06/29-18:46:17.005 100992 Level-0 table #8: started
+2024/06/29-18:46:17.006 100992 Level-0 table #8: 90466 bytes OK
+2024/06/29-18:46:17.008 100992 Delete type=0 #4
+2024/06/29-18:46:17.009 100992 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/06/29-18:46:17.009 100992 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x80f^F\x06yB\x00\x03\x00\x00\x00\x00\x00\x00<@' @ 890 : 1
+2024/06/29-18:46:17.009 100992 Compacting 1@1 + 1@2 files
+2024/06/29-18:46:17.011 100992 Generated table #9@1: 42 keys, 3094 bytes
+2024/06/29-18:46:17.011 100992 Compacted 1@1 + 1@2 files => 3094 bytes
+2024/06/29-18:46:17.012 100992 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/29-18:46:17.013 100992 Delete type=2 #5
+2024/06/29-18:46:17.013 100992 Delete type=2 #8
+2024/06/29-18:46:17.013 100992 Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x80f^F\x06yB\x00\x03\x00\x00\x00\x00\x00\x00<@' @ 890 : 1 .. (end); will stop at (end)

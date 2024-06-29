@@ -1,0 +1,41 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Projects/vue">
+          <value>
+            <RecentProjectMetaInfo frameTitle="vue – package.json" projectWorkspaceId="2iNbW8euoqYU6YtXMPO60OBOrJG">
+              <option name="activationTimestamp" value="1719666776603" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-241.18034.50" />
+              <option name="buildTimestamp" value="1718794200000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="962" y="557" width="950" height="515" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1719666760291" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/vue-blog">
+          <value>
+            <RecentProjectMetaInfo frameTitle="vue-blog – App.vue" opened="true" projectWorkspaceId="2iYU0S6CXWt31OSIMmf41Z4RtsT">
+              <option name="activationTimestamp" value="1719699993715" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-241.18034.50" />
+              <option name="buildTimestamp" value="1718794200000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="4" y="34" width="1908" height="1038" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1719666780123" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Projects/vue-blog" />
+  </component>
+</application>

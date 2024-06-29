@@ -1,0 +1,70 @@
+2024-06-24 16:17:05.924 [info] Log level: Info
+2024-06-24 16:17:05.924 [info] Validating found git in: "git"
+2024-06-24 16:17:05.924 [info] Using git "2.45.2" from "git"
+2024-06-24 16:17:05.924 [info] > git rev-parse --show-toplevel [4ms]
+2024-06-24 16:17:05.924 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-24 16:17:05.924 [info] > git rev-parse --show-toplevel [644ms]
+2024-06-24 16:17:05.924 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-24 16:17:05.924 [info] > git rev-parse --show-toplevel [18ms]
+2024-06-24 16:17:05.924 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-24 16:17:05.931 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-24 16:17:05.931 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-24 16:17:05.935 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-24 16:17:05.935 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-24 16:17:05.939 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-24 16:17:05.939 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-24 16:17:05.944 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-24 16:17:05.944 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-24 16:17:05.948 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-24 16:17:05.948 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-24 16:17:05.951 [info] > git rev-parse --show-toplevel [0ms]
+2024-06-24 16:17:05.951 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-24 16:17:06.902 [info] > git rev-parse --show-toplevel [18ms]
+2024-06-24 16:17:06.902 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-06-24 16:17:17.129 [info] Log level: Info
+2024-06-24 16:17:17.129 [info] Validating found git in: "git"
+2024-06-24 16:17:17.129 [info] Using git "2.45.2" from "git"
+2024-06-24 16:17:17.132 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-24 16:17:17.169 [info] > git rev-parse --git-dir --git-common-dir [20ms]
+2024-06-24 16:17:17.177 [info] Open repository: /home/bismarckx/Projects/vue
+2024-06-24 16:17:17.202 [info] > git rev-parse --show-toplevel [4ms]
+2024-06-24 16:17:17.203 [info] > git config --get commit.template [9ms]
+2024-06-24 16:17:17.529 [info] No remotes found in the git config file.
+2024-06-24 16:17:17.575 [info] > git rev-parse --show-toplevel [236ms]
+2024-06-24 16:17:17.604 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [76ms]
+2024-06-24 16:17:17.604 [warning] No such branch: master.
+2024-06-24 16:17:17.615 [info] > git status -z -uall [6ms]
+2024-06-24 16:17:17.620 [info] > git rev-parse --show-toplevel [17ms]
+2024-06-24 16:17:17.640 [info] > git show --textconv :src/App.vue [14ms]
+2024-06-24 16:17:17.647 [info] > git config --get commit.template [8ms]
+2024-06-24 16:17:17.647 [info] > git ls-files --stage -- /home/bismarckx/Projects/vue/src/App.vue [15ms]
+2024-06-24 16:17:17.662 [info] > git cat-file -s a753dbabb8c110d9f134b22036ec2bb2f06f0240 [9ms]
+2024-06-24 16:17:17.675 [info] No remotes found in the git config file.
+2024-06-24 16:17:17.685 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-06-24 16:17:17.685 [warning] No such branch: master.
+2024-06-24 16:17:17.717 [info] > git status -z -uall [24ms]
+2024-06-24 16:17:17.717 [info] > git check-ignore -v -z --stdin [18ms]
+2024-06-24 16:17:22.063 [info] > git show --textconv :public/index.html [7ms]
+2024-06-24 16:17:22.063 [info] > git ls-files --stage -- /home/bismarckx/Projects/vue/public/index.html [1ms]
+2024-06-24 16:17:22.069 [info] > git cat-file -s 3e5a13962197105f2078d2a224cc57dfa09b4893 [1ms]
+2024-06-24 16:17:22.844 [info] > git show --textconv :src/main.js [6ms]
+2024-06-24 16:17:22.850 [info] > git ls-files --stage -- /home/bismarckx/Projects/vue/src/main.js [7ms]
+2024-06-24 16:17:22.920 [info] > git cat-file -s a92f2289480ee7c1ef1963c06ffd067c1f2f5641 [65ms]
+2024-06-24 16:17:26.077 [info] > git show --textconv :src/App.vue [12ms]
+2024-06-24 16:17:26.077 [info] > git ls-files --stage -- /home/bismarckx/Projects/vue/src/App.vue [3ms]
+2024-06-24 16:17:26.086 [info] > git cat-file -s a753dbabb8c110d9f134b22036ec2bb2f06f0240 [1ms]
+2024-06-24 16:21:07.617 [info] No remotes found in the git config file.
+2024-06-24 16:21:07.618 [info] > git config --get commit.template [13ms]
+2024-06-24 16:21:07.619 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-06-24 16:21:07.619 [warning] No such branch: master.
+2024-06-24 16:21:07.634 [info] > git status -z -uall [3ms]

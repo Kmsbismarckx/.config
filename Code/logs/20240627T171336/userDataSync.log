@@ -1,0 +1,658 @@
+2024-06-27 17:13:37.117 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2024-06-27 17:13:37.117 [info] Auto Sync is enabled.
+2024-06-27 17:13:37.117 [info] Auto Sync: Suspended until auth token is available.
+2024-06-27 17:13:37.608 [info] Deleting non existing profile from backup /home/bismarckx/.config/Code/User/sync/extensions
+2024-06-27 17:13:37.700 [info] Deleting non existing profile from backup /home/bismarckx/.config/Code/User/sync/globalState
+2024-06-27 17:13:37.701 [info] Deleting non existing profile from backup /home/bismarckx/.config/Code/User/sync/keybindings
+2024-06-27 17:13:37.701 [info] Deleting non existing profile from backup /home/bismarckx/.config/Code/User/sync/profiles
+2024-06-27 17:13:37.702 [info] Deleting non existing profile from backup /home/bismarckx/.config/Code/User/sync/settings
+2024-06-27 17:13:37.702 [info] Deleting non existing profile from backup /home/bismarckx/.config/Code/User/sync/snippets
+2024-06-27 17:13:37.703 [info] Deleting non existing profile from backup /home/bismarckx/.config/Code/User/sync/tasks
+2024-06-27 17:13:38.817 [info] Auto Sync: Triggered by Interval
+2024-06-27 17:13:38.817 [info] Sync started.
+2024-06-27 17:13:39.369 [info] Settings: Last sync resource does not exist locally.
+2024-06-27 17:13:39.641 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:13:39.646 [info] Keybindings: Last sync resource does not exist locally.
+2024-06-27 17:13:39.812 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:13:39.813 [info] Snippets: Last sync resource does not exist locally.
+2024-06-27 17:13:39.898 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:13:39.899 [info] Tasks: Last sync resource does not exist locally.
+2024-06-27 17:13:39.980 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:13:39.981 [info] GlobalState: Last sync resource does not exist locally.
+2024-06-27 17:13:40.735 [info] GlobalState: Updated remote ui state. Updated: cpp.1.lastSessionDate,cpp.1.sessionCount,java.2.lastSessionDate,java.2.sessionCount,javascript.1.lastSessionDate,javascript.1.sessionCount,csharp.1.lastSessionDate,csharp.1.sessionCount.
+2024-06-27 17:13:40.738 [info] GlobalState: Updated last synchronized ui state
+2024-06-27 17:13:40.740 [info] Extensions: Last sync resource does not exist locally.
+2024-06-27 17:13:40.915 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:13:40.916 [info] Profiles: Last sync resource does not exist locally.
+2024-06-27 17:13:41.005 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:13:41.007 [info] Syncing profile. bismarckx
+2024-06-27 17:13:41.018 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 17:13:41.024 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:13:41.026 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:13:41.029 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:13:41.038 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 17:13:41.107 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:13:41.108 [info] Sync done. Took 2292ms
+2024-06-27 17:14:07.928 [info] Auto Sync: Triggered by Activity
+2024-06-27 17:14:07.928 [info] Sync started.
+2024-06-27 17:14:08.023 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:14:08.027 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:14:08.030 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:14:08.033 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:14:08.037 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 17:14:08.122 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:14:08.123 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:14:08.124 [info] Syncing profile. bismarckx
+2024-06-27 17:14:08.510 [info] Settings (bismarckx): Updated remote settings
+2024-06-27 17:14:08.515 [info] Settings (bismarckx): Updated last synchronized settings
+2024-06-27 17:14:08.517 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:14:08.519 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:14:08.521 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:14:08.528 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 17:14:08.594 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:14:08.596 [info] Sync done. Took 668ms
+2024-06-27 17:14:15.085 [info] Auto Sync: Triggered by Activity
+2024-06-27 17:14:15.085 [info] Sync started.
+2024-06-27 17:14:15.170 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:14:15.172 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:14:15.174 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:14:15.176 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:14:15.179 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 17:14:15.242 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:14:15.244 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:14:15.245 [info] Syncing profile. bismarckx
+2024-06-27 17:14:15.637 [info] Settings (bismarckx): Updated remote settings
+2024-06-27 17:14:15.642 [info] Settings (bismarckx): Updated last synchronized settings
+2024-06-27 17:14:15.644 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:14:15.645 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:14:15.647 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:14:15.653 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 17:14:15.708 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:14:15.709 [info] Sync done. Took 624ms
+2024-06-27 17:14:21.390 [info] Auto Sync: Triggered by Activity
+2024-06-27 17:14:21.391 [info] Sync started.
+2024-06-27 17:14:21.476 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:14:21.478 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:14:21.481 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:14:21.483 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:14:21.486 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 17:14:21.568 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:14:21.569 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:14:21.569 [info] Syncing profile. bismarckx
+2024-06-27 17:14:21.572 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 17:14:21.574 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:14:21.575 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:14:21.577 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:14:21.582 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 17:14:21.635 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:14:21.636 [info] Sync done. Took 246ms
+2024-06-27 17:14:33.669 [info] Auto Sync: Triggered by Activity
+2024-06-27 17:14:33.669 [info] Sync started.
+2024-06-27 17:14:33.775 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:14:33.779 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:14:33.781 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:14:33.782 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:14:33.784 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 17:14:33.877 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:14:33.877 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:14:33.878 [info] Syncing profile. bismarckx
+2024-06-27 17:14:34.256 [info] Settings (bismarckx): Updated remote settings
+2024-06-27 17:14:34.260 [info] Settings (bismarckx): Updated last synchronized settings
+2024-06-27 17:14:34.263 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:14:34.265 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:14:34.267 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:14:34.273 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 17:14:34.345 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:14:34.346 [info] Sync done. Took 677ms
+2024-06-27 17:14:45.485 [info] Auto Sync: Triggered by Activity
+2024-06-27 17:14:45.485 [info] Sync started.
+2024-06-27 17:14:45.597 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:14:45.600 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:14:45.603 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:14:45.606 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:14:45.609 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 17:14:45.689 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:14:45.690 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:14:45.691 [info] Syncing profile. bismarckx
+2024-06-27 17:14:46.099 [info] Settings (bismarckx): Updated remote settings
+2024-06-27 17:14:46.106 [info] Settings (bismarckx): Updated last synchronized settings
+2024-06-27 17:14:46.107 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:14:46.109 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:14:46.111 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:14:46.117 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 17:14:46.183 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:14:46.183 [info] Sync done. Took 698ms
+2024-06-27 17:15:48.753 [info] Auto Sync: Triggered by Activity
+2024-06-27 17:15:48.753 [info] Sync started.
+2024-06-27 17:15:48.869 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:15:48.872 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:15:48.875 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:15:48.877 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:15:48.881 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 17:15:48.953 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:15:48.957 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:15:48.958 [info] Syncing profile. bismarckx
+2024-06-27 17:15:48.962 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 17:15:48.963 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:15:48.965 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:15:48.967 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:15:48.970 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 17:15:49.032 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:15:49.032 [info] Sync done. Took 280ms
+2024-06-27 17:20:49.044 [info] Auto Sync: Triggered by Interval
+2024-06-27 17:20:49.044 [info] Sync started.
+2024-06-27 17:20:49.342 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:20:49.344 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:20:49.347 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:20:49.348 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:20:49.350 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 17:20:49.430 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:20:49.431 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:20:49.431 [info] Syncing profile. bismarckx
+2024-06-27 17:20:49.433 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 17:20:49.435 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:20:49.436 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:20:49.437 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:20:49.441 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 17:20:49.491 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:20:49.493 [info] Sync done. Took 450ms
+2024-06-27 17:25:49.506 [info] Auto Sync: Triggered by Interval
+2024-06-27 17:25:49.506 [info] Sync started.
+2024-06-27 17:25:49.799 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:25:49.802 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:25:49.804 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:25:49.806 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:25:49.810 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 17:25:49.914 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:25:49.915 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:25:49.915 [info] Syncing profile. bismarckx
+2024-06-27 17:25:49.919 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 17:25:49.921 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:25:49.923 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:25:49.925 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:25:49.929 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 17:25:49.987 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:25:49.987 [info] Sync done. Took 482ms
+2024-06-27 17:26:25.838 [info] Auto Sync: Triggered by Activity
+2024-06-27 17:26:25.838 [info] Sync started.
+2024-06-27 17:26:25.930 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:26:25.932 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:26:25.935 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:26:25.938 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:26:25.942 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 17:26:26.026 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:26:26.030 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:26:26.031 [info] Syncing profile. bismarckx
+2024-06-27 17:26:26.033 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 17:26:26.035 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:26:26.037 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:26:26.039 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:26:26.042 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 17:26:26.097 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:26:26.098 [info] Sync done. Took 260ms
+2024-06-27 17:27:15.146 [info] Auto Sync: Triggered by Activity
+2024-06-27 17:27:15.146 [info] Sync started.
+2024-06-27 17:27:15.263 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:27:15.265 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:27:15.266 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:27:15.268 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:27:15.271 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 17:27:15.341 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:27:15.342 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:27:15.342 [info] Syncing profile. bismarckx
+2024-06-27 17:27:15.345 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 17:27:15.347 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:27:15.349 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:27:15.350 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:27:15.355 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 17:27:15.416 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:27:15.417 [info] Sync done. Took 272ms
+2024-06-27 17:32:15.441 [info] Auto Sync: Triggered by Interval
+2024-06-27 17:32:15.441 [info] Sync started.
+2024-06-27 17:32:15.738 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:32:15.741 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:32:15.743 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:32:15.744 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:32:15.747 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 17:32:15.815 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:32:15.815 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:32:15.816 [info] Syncing profile. bismarckx
+2024-06-27 17:32:15.818 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 17:32:15.819 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:32:15.821 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:32:15.822 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:32:15.826 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 17:32:15.879 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:32:15.879 [info] Sync done. Took 439ms
+2024-06-27 17:37:15.903 [info] Auto Sync: Triggered by Interval
+2024-06-27 17:37:15.903 [info] Sync started.
+2024-06-27 17:37:16.178 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:37:16.180 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:37:16.182 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:37:16.184 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:37:16.186 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 17:37:16.262 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:37:16.264 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:37:16.265 [info] Syncing profile. bismarckx
+2024-06-27 17:37:16.269 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 17:37:16.271 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:37:16.273 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:37:16.275 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:37:16.279 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 17:37:16.333 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:37:16.334 [info] Sync done. Took 432ms
+2024-06-27 17:42:03.228 [info] Auto Sync: Triggered by Activity
+2024-06-27 17:42:03.228 [info] Sync started.
+2024-06-27 17:42:03.512 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:42:03.514 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:42:03.517 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:42:03.519 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:42:03.522 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 17:42:03.607 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:42:03.611 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:42:03.612 [info] Syncing profile. bismarckx
+2024-06-27 17:42:03.614 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 17:42:03.615 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:42:03.617 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:42:03.618 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:42:03.622 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 17:42:03.679 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:42:03.679 [info] Sync done. Took 451ms
+2024-06-27 17:42:33.871 [info] Auto Sync: Triggered by Activity
+2024-06-27 17:42:33.871 [info] Sync started.
+2024-06-27 17:42:33.968 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:42:33.969 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:42:33.971 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:42:33.972 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:42:33.974 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 17:42:34.041 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:42:34.041 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:42:34.042 [info] Syncing profile. bismarckx
+2024-06-27 17:42:34.044 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 17:42:34.046 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:42:34.048 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:42:34.050 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:42:34.054 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 17:42:34.112 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:42:34.113 [info] Sync done. Took 243ms
+2024-06-27 17:43:09.780 [info] Auto Sync: Triggered by Activity
+2024-06-27 17:43:09.780 [info] Sync started.
+2024-06-27 17:43:09.871 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:43:09.873 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:43:09.876 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:43:09.878 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:43:09.881 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 17:43:09.954 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:43:09.955 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:43:09.957 [info] Syncing profile. bismarckx
+2024-06-27 17:43:09.960 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 17:43:09.964 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:43:09.966 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:43:09.968 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:43:09.972 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 17:43:10.029 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:43:10.030 [info] Sync done. Took 250ms
+2024-06-27 17:43:39.832 [info] Auto Sync: Triggered by Activity
+2024-06-27 17:43:39.832 [info] Sync started.
+2024-06-27 17:43:39.929 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:43:39.931 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:43:39.933 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:43:39.935 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:43:39.941 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 17:43:40.022 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:43:40.024 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:43:40.024 [info] Syncing profile. bismarckx
+2024-06-27 17:43:40.027 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 17:43:40.028 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:43:40.030 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:43:40.032 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:43:40.036 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 17:43:40.093 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:43:40.094 [info] Sync done. Took 262ms
+2024-06-27 17:44:05.163 [info] Auto Sync: Triggered by Activity
+2024-06-27 17:44:05.163 [info] Sync started.
+2024-06-27 17:44:05.252 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:44:05.255 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:44:05.258 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:44:05.259 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:44:05.262 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 17:44:05.334 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:44:05.336 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:44:05.337 [info] Syncing profile. bismarckx
+2024-06-27 17:44:05.341 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 17:44:05.343 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:44:05.344 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:44:05.346 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:44:05.350 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 17:44:05.407 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:44:05.407 [info] Sync done. Took 245ms
+2024-06-27 17:45:01.507 [info] Auto Sync: Triggered by Activity
+2024-06-27 17:45:01.507 [info] Sync started.
+2024-06-27 17:45:01.657 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:45:01.661 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:45:01.665 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:45:01.669 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:45:01.673 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 17:45:01.752 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:45:01.753 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:45:01.754 [info] Syncing profile. bismarckx
+2024-06-27 17:45:01.755 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 17:45:01.757 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:45:01.758 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:45:01.760 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:45:01.764 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 17:45:01.823 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:45:01.823 [info] Sync done. Took 317ms
+2024-06-27 17:50:01.848 [info] Auto Sync: Triggered by Interval
+2024-06-27 17:50:01.848 [info] Sync started.
+2024-06-27 17:50:02.124 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:50:02.126 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:50:02.128 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:50:02.130 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:50:02.134 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 17:50:02.206 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:50:02.207 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:50:02.208 [info] Syncing profile. bismarckx
+2024-06-27 17:50:02.209 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 17:50:02.211 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:50:02.213 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:50:02.215 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:50:02.220 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 17:50:02.271 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:50:02.271 [info] Sync done. Took 424ms
+2024-06-27 17:50:16.740 [info] Auto Sync: Triggered by Activity
+2024-06-27 17:50:16.740 [info] Sync started.
+2024-06-27 17:50:16.820 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:50:16.823 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:50:16.825 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:50:16.827 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:50:16.829 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 17:50:16.923 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:50:16.924 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:50:16.925 [info] Syncing profile. bismarckx
+2024-06-27 17:50:16.927 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 17:50:16.929 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:50:16.931 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:50:16.933 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:50:16.939 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 17:50:16.991 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:50:16.992 [info] Sync done. Took 251ms
+2024-06-27 17:50:55.463 [info] Auto Sync: Triggered by Activity
+2024-06-27 17:50:55.464 [info] Sync started.
+2024-06-27 17:50:55.552 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:50:55.553 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:50:55.555 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:50:55.557 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:50:55.560 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 17:50:55.641 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:50:55.642 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:50:55.643 [info] Syncing profile. bismarckx
+2024-06-27 17:50:56.055 [info] Settings (bismarckx): Updated remote settings
+2024-06-27 17:50:56.059 [info] Settings (bismarckx): Updated last synchronized settings
+2024-06-27 17:50:56.061 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:50:56.062 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:50:56.063 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:50:56.596 [info] GlobalState (bismarckx): Updated remote ui state. Updated: colorThemeData.
+2024-06-27 17:50:56.602 [info] GlobalState (bismarckx): Updated last synchronized ui state
+2024-06-27 17:50:56.658 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:50:56.660 [info] Sync done. Took 1197ms
+2024-06-27 17:51:07.381 [info] Auto Sync: Triggered by Activity
+2024-06-27 17:51:07.381 [info] Sync started.
+2024-06-27 17:51:07.475 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:51:07.476 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:51:07.478 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:51:07.480 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:51:07.483 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 17:51:07.538 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:51:07.539 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:51:07.539 [info] Syncing profile. bismarckx
+2024-06-27 17:51:07.915 [info] Settings (bismarckx): Updated remote settings
+2024-06-27 17:51:07.920 [info] Settings (bismarckx): Updated last synchronized settings
+2024-06-27 17:51:07.923 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:51:07.925 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:51:07.928 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:51:08.354 [info] GlobalState (bismarckx): Updated remote ui state. Updated: colorThemeData.
+2024-06-27 17:51:08.359 [info] GlobalState (bismarckx): Updated last synchronized ui state
+2024-06-27 17:51:08.443 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:51:08.444 [info] Sync done. Took 1063ms
+2024-06-27 17:54:18.133 [info] Auto Sync: Triggered by Activity
+2024-06-27 17:54:18.133 [info] Sync started.
+2024-06-27 17:54:18.412 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:54:18.415 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:54:18.418 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:54:18.420 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:54:18.424 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 17:54:18.482 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:54:18.482 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:54:18.483 [info] Syncing profile. bismarckx
+2024-06-27 17:54:18.484 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 17:54:18.486 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:54:18.488 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:54:18.489 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:54:19.103 [info] GlobalState (bismarckx): Updated remote ui state. Updated: snippets.usageTimestamps.
+2024-06-27 17:54:19.109 [info] GlobalState (bismarckx): Updated last synchronized ui state
+2024-06-27 17:54:19.188 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:54:19.189 [info] Sync done. Took 1055ms
+2024-06-27 17:55:48.954 [info] Auto Sync: Triggered by Activity
+2024-06-27 17:55:48.954 [info] Sync started.
+2024-06-27 17:55:49.049 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:55:49.052 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:55:49.055 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:55:49.056 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:55:49.058 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 17:55:49.145 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:55:49.147 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:55:49.148 [info] Syncing profile. bismarckx
+2024-06-27 17:55:49.154 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 17:55:49.158 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:55:49.161 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:55:49.163 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:55:49.169 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 17:55:49.238 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:55:49.240 [info] Sync done. Took 286ms
+2024-06-27 17:55:58.036 [info] Auto Sync: Triggered by Activity
+2024-06-27 17:55:58.036 [info] Sync started.
+2024-06-27 17:55:58.141 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:55:58.143 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:55:58.146 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:55:58.148 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:55:58.751 [info] GlobalState: Updated remote ui state. Updated: javascript.1.editedCount,javascript.1.editedDate.
+2024-06-27 17:55:58.757 [info] GlobalState: Updated last synchronized ui state
+2024-06-27 17:55:58.869 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:55:58.871 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:55:58.873 [info] Syncing profile. bismarckx
+2024-06-27 17:55:58.876 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 17:55:58.877 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:55:58.879 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:55:58.880 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:55:58.886 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 17:55:58.947 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:55:58.947 [info] Sync done. Took 912ms
+2024-06-27 17:56:35.170 [info] Auto Sync: Triggered by Activity
+2024-06-27 17:56:35.171 [info] Sync started.
+2024-06-27 17:56:35.253 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:56:35.255 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:56:35.256 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:56:35.258 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:56:35.260 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 17:56:35.328 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:56:35.329 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:56:35.330 [info] Syncing profile. bismarckx
+2024-06-27 17:56:35.332 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 17:56:35.334 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:56:35.336 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:56:35.338 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:56:35.342 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 17:56:35.398 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:56:35.398 [info] Sync done. Took 228ms
+2024-06-27 17:56:55.579 [info] Auto Sync: Triggered by Activity
+2024-06-27 17:56:55.579 [info] Sync started.
+2024-06-27 17:56:55.692 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:56:55.694 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:56:55.696 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:56:55.697 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:56:55.699 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 17:56:55.765 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:56:55.766 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:56:55.768 [info] Syncing profile. bismarckx
+2024-06-27 17:56:55.770 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 17:56:55.774 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:56:55.776 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:56:55.777 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:56:56.396 [info] GlobalState (bismarckx): Updated remote ui state. Updated: snippets.usageTimestamps.
+2024-06-27 17:56:56.402 [info] GlobalState (bismarckx): Updated last synchronized ui state
+2024-06-27 17:56:56.463 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:56:56.466 [info] Sync done. Took 886ms
+2024-06-27 17:57:09.375 [info] Auto Sync: Triggered by Activity
+2024-06-27 17:57:09.375 [info] Sync started.
+2024-06-27 17:57:09.461 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:57:09.463 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:57:09.465 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:57:09.467 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:57:09.469 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 17:57:09.553 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:57:09.554 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:57:09.555 [info] Syncing profile. bismarckx
+2024-06-27 17:57:09.557 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 17:57:09.559 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:57:09.561 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:57:09.562 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:57:09.566 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 17:57:09.624 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:57:09.625 [info] Sync done. Took 251ms
+2024-06-27 17:57:50.196 [info] Auto Sync: Triggered by Activity
+2024-06-27 17:57:50.196 [info] Sync started.
+2024-06-27 17:57:50.282 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:57:50.285 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:57:50.287 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:57:50.289 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:57:50.291 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 17:57:50.370 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:57:50.372 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:57:50.373 [info] Syncing profile. bismarckx
+2024-06-27 17:57:50.376 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 17:57:50.383 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:57:50.385 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:57:50.387 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:57:50.391 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 17:57:50.464 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:57:50.464 [info] Sync done. Took 269ms
+2024-06-27 17:58:38.823 [info] Auto Sync: Triggered by Activity
+2024-06-27 17:58:38.823 [info] Sync started.
+2024-06-27 17:58:38.906 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:58:38.909 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:58:38.911 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:58:38.912 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:58:38.914 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 17:58:38.994 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:58:38.995 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:58:38.996 [info] Syncing profile. bismarckx
+2024-06-27 17:58:38.997 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 17:58:39.000 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:58:39.002 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:58:39.003 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:58:39.007 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 17:58:39.062 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:58:39.062 [info] Sync done. Took 240ms
+2024-06-27 17:59:11.309 [info] Auto Sync: Triggered by Activity
+2024-06-27 17:59:11.309 [info] Sync started.
+2024-06-27 17:59:11.387 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 17:59:11.390 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 17:59:11.391 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 17:59:11.393 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 17:59:11.395 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 17:59:11.465 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 17:59:11.466 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 17:59:11.466 [info] Syncing profile. bismarckx
+2024-06-27 17:59:11.469 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 17:59:11.471 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 17:59:11.473 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 17:59:11.476 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 17:59:11.479 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 17:59:11.538 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 17:59:11.540 [info] Sync done. Took 231ms
+2024-06-27 18:00:05.840 [info] Auto Sync: Triggered by Activity
+2024-06-27 18:00:05.840 [info] Sync started.
+2024-06-27 18:00:05.955 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 18:00:05.956 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 18:00:05.958 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 18:00:05.960 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 18:00:05.962 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 18:00:06.045 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 18:00:06.046 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 18:00:06.047 [info] Syncing profile. bismarckx
+2024-06-27 18:00:06.050 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 18:00:06.055 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 18:00:06.056 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 18:00:06.058 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 18:00:06.061 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 18:00:06.118 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 18:00:06.119 [info] Sync done. Took 279ms
+2024-06-27 18:02:35.515 [info] Auto Sync: Triggered by Activity
+2024-06-27 18:02:35.516 [info] Sync started.
+2024-06-27 18:02:35.805 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 18:02:35.809 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 18:02:35.811 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 18:02:35.813 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 18:02:35.815 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 18:02:35.896 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 18:02:35.897 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 18:02:35.897 [info] Syncing profile. bismarckx
+2024-06-27 18:02:35.900 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 18:02:35.902 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 18:02:35.903 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 18:02:35.905 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 18:02:35.908 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 18:02:35.974 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 18:02:35.975 [info] Sync done. Took 459ms
+2024-06-27 18:07:35.978 [info] Auto Sync: Triggered by Interval
+2024-06-27 18:07:35.979 [info] Sync started.
+2024-06-27 18:07:36.258 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 18:07:36.260 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 18:07:36.263 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 18:07:36.265 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 18:07:36.269 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 18:07:36.366 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 18:07:36.367 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 18:07:36.368 [info] Syncing profile. bismarckx
+2024-06-27 18:07:36.369 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 18:07:36.371 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 18:07:36.372 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 18:07:36.373 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 18:07:36.377 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 18:07:36.438 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 18:07:36.438 [info] Sync done. Took 460ms
+2024-06-27 18:09:31.235 [info] Auto Sync: Triggered by Activity
+2024-06-27 18:09:31.235 [info] Sync started.
+2024-06-27 18:09:31.329 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 18:09:31.330 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 18:09:31.332 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 18:09:31.333 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 18:09:31.335 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 18:09:31.414 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 18:09:31.414 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 18:09:31.415 [info] Syncing profile. bismarckx
+2024-06-27 18:09:31.417 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 18:09:31.419 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 18:09:31.421 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 18:09:31.423 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 18:09:31.428 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 18:09:31.481 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 18:09:31.482 [info] Sync done. Took 246ms
+2024-06-27 18:14:31.483 [info] Auto Sync: Triggered by Interval
+2024-06-27 18:14:31.483 [info] Sync started.
+2024-06-27 18:14:31.759 [info] Settings: No changes found during synchronizing settings.
+2024-06-27 18:14:31.761 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-06-27 18:14:31.763 [info] Snippets: No changes found during synchronizing snippets.
+2024-06-27 18:14:31.764 [info] Tasks: No changes found during synchronizing tasks.
+2024-06-27 18:14:31.766 [info] GlobalState: No changes found during synchronizing ui state.
+2024-06-27 18:14:31.845 [info] Extensions: No changes found during synchronizing extensions.
+2024-06-27 18:14:31.846 [info] Profiles: No changes found during synchronizing profiles.
+2024-06-27 18:14:31.847 [info] Syncing profile. bismarckx
+2024-06-27 18:14:31.849 [info] Settings (bismarckx): No changes found during synchronizing settings.
+2024-06-27 18:14:31.852 [info] Keybindings (bismarckx): No changes found during synchronizing keybindings.
+2024-06-27 18:14:31.853 [info] Snippets (bismarckx): No changes found during synchronizing snippets.
+2024-06-27 18:14:31.855 [info] Tasks (bismarckx): No changes found during synchronizing tasks.
+2024-06-27 18:14:31.858 [info] GlobalState (bismarckx): No changes found during synchronizing ui state.
+2024-06-27 18:14:31.908 [info] Extensions (bismarckx): No changes found during synchronizing extensions.
+2024-06-27 18:14:31.909 [info] Sync done. Took 427ms

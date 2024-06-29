@@ -1,0 +1,6 @@
+2024-06-24 23:26:35.198 [info] Getting Manifest... hollowtree.vue-snippets
+2024-06-24 23:26:35.204 [info] Installing extension: hollowtree.vue-snippets vscode-userdata:/home/bismarckx/.config/Code/User/profiles/-384ba5b7/extensions.json
+2024-06-24 23:26:36.043 [info] Extension signature verification result for hollowtree.vue-snippets: UnknownError. Executed: true. Duration: 18ms.
+2024-06-24 23:26:36.064 [info] Extracted extension to file:///home/bismarckx/.vscode/extensions/hollowtree.vue-snippets-1.0.4: hollowtree.vue-snippets
+2024-06-24 23:26:36.068 [info] Renamed to /home/bismarckx/.vscode/extensions/hollowtree.vue-snippets-1.0.4
+2024-06-24 23:26:36.146 [info] Extension installed successfully: hollowtree.vue-snippets vscode-userdata:/home/bismarckx/.config/Code/User/profiles/-384ba5b7/extensions.json

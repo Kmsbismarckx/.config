@@ -1,0 +1,6 @@
+2024/06/25-12:51:28.715 43f Reusing MANIFEST /home/bismarckx/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/25-12:51:28.715 43f Recovering log #3
+2024/06/25-12:51:28.726 43f Reusing old log /home/bismarckx/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2024/06/25-12:51:28.774 443 Level-0 table #5: started
+2024/06/25-12:51:28.790 443 Level-0 table #5: 1621853 bytes OK
+2024/06/25-12:51:28.793 443 Delete type=0 #3

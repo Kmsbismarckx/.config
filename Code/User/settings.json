@@ -1,0 +1,61 @@
+{
+  "files.autoSave": "onWindowChange",
+  // "window.zoomLevel": 0.7,
+
+  "explorer.autoReveal": true,
+  
+  "git.autofetch": true,
+
+// editor  
+
+  "editor.tabSize": 2,
+  "editor.minimap.size": "fit",
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.6,
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "editor.fontVariations": false,
+  "editor.fontWeight": "normal",
+  "editor.defaultFormatter": "esbenp.prettier-vscode", 
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.removeUnusedImports": "explicit"
+  },
+
+  "javascript.inlayHints.enumMemberValues.enabled": true,
+  "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+  "javascript.inlayHints.parameterNames.enabled": "literals",
+  "javascript.inlayHints.parameterTypes.enabled": true,
+  "javascript.inlayHints.variableTypes.enabled": true,
+  
+//eslint
+
+  "eslint.workingDirectories": ["."],
+  "eslint.run": "onSave",
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "eslint.codeActionsOnSave.rules": null,
+
+  "prettier.requireConfig": true,
+  "explorer.fileNesting.enabled": true,
+  "prettier.printWidth": 100,
+  "prettier.singleQuote": true,
+  "prettier.useTabs": true,
+
+  "workbench.startupEditor": "none",
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "cSpell.userWords": [
+    "consts",
+    "sber"
+  ],
+  "workbench.iconTheme": "a-file-icon-vscode",
+  "prettier.configPath": "./.prettierrc"
+}

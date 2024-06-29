@@ -1,0 +1,6 @@
+2024-06-24 16:17:03.553 [info] update#setState idle
+2024-06-24 16:17:15.315 [info] Extension host with pid 6056 exited with code: 0, signal: unknown.
+2024-06-24 16:17:33.555 [info] update#setState checking for updates
+2024-06-24 16:17:33.767 [info] update#setState idle
+2024-06-24 16:21:37.231 [info] Extension host with pid 6185 exited with code: 0, signal: unknown.
+2024-06-24 16:21:37.232 [error] ptyHost terminated unexpectedly with code 0

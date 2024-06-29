@@ -1,0 +1,6 @@
+2024/06/25-17:47:48.744 440 Creating DB /home/bismarckx/.config/chromium/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb since it was missing.
+2024/06/25-17:47:48.754 440 Reusing MANIFEST /home/bismarckx/.config/chromium/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/25-17:47:57.422 440 Level-0 table #5: started
+2024/06/25-17:47:57.425 440 Level-0 table #5: 94061 bytes OK
+2024/06/25-17:47:57.427 440 Delete type=0 #3
+2024/06/25-17:47:57.427 440 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

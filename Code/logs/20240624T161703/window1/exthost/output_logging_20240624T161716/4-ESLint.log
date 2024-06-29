@@ -1,0 +1,12 @@
+[Info  - 4:17:17 PM] ESLint server is starting.
+[Info  - 4:17:17 PM] ESLint server running in node v20.9.0
+[Info  - 4:17:17 PM] ESLint server is running.
+[Warn  - 4:17:22 PM] Detected package manager() differs from the one in the deprecated packageManager setting(npm). We will honor this setting until it is removed.
+[object Object]
+[Info  - 4:17:22 PM] 
+Failed to load the ESLint library for the document /home/bismarckx/Projects/vue/src/main.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder vue
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+Alternatively you can disable ESLint for the workspace folder vue by executing the 'Disable ESLint' command.

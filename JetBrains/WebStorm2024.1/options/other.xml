@@ -1,0 +1,72 @@
+<application>
+  <component name="ActionHistoryManager">
+    <ids>
+      <option value="RestoreFactoryDefaultLayout" />
+      <option value="WelcomeScreen.Plugins" />
+      <option value="ActivateTerminalToolWindow" />
+      <option value="ActivateStructureToolWindow" />
+    </ids>
+  </component>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="NotRoamableUiSettings">
+    <option name="ideAAType" value="Greyscale" />
+    <option name="editorAAType" value="Greyscale" />
+    <option name="fontFace" value="SF Compact Display" />
+    <option name="fontSize" value="14.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFonts" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "FileTemplates.SelectedTemplate": "HTML File",
+    "GeneralSettings.initiallyConfigured": "true",
+    "INTENTION_FILTER_HISTORY": "Vue",
+    "InstalledPluginsSearchHistory": "intel\ninte\nin\ni\nVue.js",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "6",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "WS-241.18034.50",
+    "MarketplacePluginsSearchHistory": "intel\nbra\none\no\natom",
+    "RunOnceActivity.llm.installer.activate.toolwindow": "true",
+    "RunOnceActivity.webstorm.auto-popup.quick-doc.initialized": "true",
+    "RunOnceActivity.webstorm.code.vision.default.position.initialized": "true",
+    "SettingsSearchHistory": "prett\neslint\nprettier\nterminal\nVue.js",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "enter_selection_count": "5",
+    "evlsprt3.241": "4",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "241.18034.50",
+    "file.gist.reindex.count": "5",
+    "fileTypeChangedCounter": "6",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.js.debugger.terminal.start.debugger.from.url": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "ide.memory.adjusted": "true",
+    "input.method.disabler.muted": "true",
+    "js.live.template.contexts.migrated": "true",
+    "last_opened_file_path": "/home/bismarckx/Projects/vue",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_One Dark Vivid",
+    "registry.to.advanced.settings.migration.build": "WS-241.18034.50",
+    "ts.lib.d.ts.version": "5.4.3",
+    "tv.twelvetone.intellij.common.device-id": "f92f848c-3357-49b4-a0f8-508f6721ab78",
+    "tv.twelvetone.intellij.plugins.intellivue.usage-counts": "{\"productVersion\":\"1.2.10\",\"product\":\"intellivue\",\"source\":\"f92f848c-3357-49b4-a0f8-508f6721ab78\",\"lastSent\":1719671330913,\"features\":{}}",
+    "tv.twelvetone.intellij.plugins.intellivue.useSetupMethod": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/bismarckx/Projects/vue-blog/vue-project",
+      "/home/bismarckx/Projects/vue-blog",
+      "/home/bismarckx/Projects/vue"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

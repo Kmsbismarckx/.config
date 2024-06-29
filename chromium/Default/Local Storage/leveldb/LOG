@@ -1,0 +1,21 @@
+2024/06/29-17:28:48.135 4 Reusing MANIFEST /home/bismarckx/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2024/06/29-17:28:48.140 4 Recovering log #51
+2024/06/29-17:28:48.140 4 Reusing old log /home/bismarckx/.config/chromium/Default/Local Storage/leveldb/000051.log 
+2024/06/29-18:13:31.536 6 Level-0 table #55: started
+2024/06/29-18:13:31.539 6 Level-0 table #55: 37034 bytes OK
+2024/06/29-18:13:31.542 6 Delete type=0 #51
+2024/06/29-18:39:43.424 6 Level-0 table #57: started
+2024/06/29-18:39:43.427 6 Level-0 table #57: 34270 bytes OK
+2024/06/29-18:39:43.431 6 Delete type=0 #54
+2024/06/29-18:39:46.132 6 Level-0 table #59: started
+2024/06/29-18:39:46.137 6 Level-0 table #59: 63015 bytes OK
+2024/06/29-18:39:46.140 6 Delete type=0 #56
+2024/06/29-18:39:46.140 6 Compacting 4@0 + 1@1 files
+2024/06/29-18:39:46.149 6 Generated table #60@0: 428 keys, 506648 bytes
+2024/06/29-18:39:46.149 6 Compacted 4@0 + 1@1 files => 506648 bytes
+2024/06/29-18:39:46.150 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/29-18:39:46.151 6 Delete type=2 #50
+2024/06/29-18:39:46.151 6 Delete type=2 #52
+2024/06/29-18:39:46.151 6 Delete type=2 #55
+2024/06/29-18:39:46.151 6 Delete type=2 #57
+2024/06/29-18:39:46.151 6 Delete type=2 #59

@@ -1,0 +1,29 @@
+2024-06-24 16:21:42.307 [info] Started local extension host with pid 7992.
+2024-06-24 16:21:42.354 [warning] [well-ar.plantuml]: Cannot register 'plantuml.exportFormat'. This property is already registered.
+2024-06-24 16:21:42.355 [warning] [well-ar.plantuml]: Cannot register 'plantuml.java'. This property is already registered.
+2024-06-24 16:21:42.355 [warning] [well-ar.plantuml]: Cannot register 'plantuml.jar'. This property is already registered.
+2024-06-24 16:21:42.355 [warning] [well-ar.plantuml]: Cannot register 'plantuml.diagramsRoot'. This property is already registered.
+2024-06-24 16:21:42.355 [warning] [well-ar.plantuml]: Cannot register 'plantuml.fileExtensions'. This property is already registered.
+2024-06-24 16:21:42.355 [warning] [well-ar.plantuml]: Cannot register 'plantuml.exportSubFolder'. This property is already registered.
+2024-06-24 16:21:42.355 [warning] [well-ar.plantuml]: Cannot register 'plantuml.exportIncludeFolderHeirarchy'. This property is already registered.
+2024-06-24 16:21:42.356 [warning] [well-ar.plantuml]: Cannot register 'plantuml.exportConcurrency'. This property is already registered.
+2024-06-24 16:21:42.356 [warning] [well-ar.plantuml]: Cannot register 'plantuml.exportOutDir'. This property is already registered.
+2024-06-24 16:21:42.356 [warning] [well-ar.plantuml]: Cannot register 'plantuml.exportMapFile'. This property is already registered.
+2024-06-24 16:21:42.356 [warning] [well-ar.plantuml]: Cannot register 'plantuml.previewAutoUpdate'. This property is already registered.
+2024-06-24 16:21:42.356 [warning] [well-ar.plantuml]: Cannot register 'plantuml.previewSnapIndicators'. This property is already registered.
+2024-06-24 16:21:42.357 [warning] [well-ar.plantuml]: Cannot register 'plantuml.server'. This property is already registered.
+2024-06-24 16:21:42.357 [warning] [well-ar.plantuml]: Cannot register 'plantuml.urlFormat'. This property is already registered.
+2024-06-24 16:21:42.357 [warning] [well-ar.plantuml]: Cannot register 'plantuml.urlResult'. This property is already registered.
+2024-06-24 16:21:42.357 [warning] [well-ar.plantuml]: Cannot register 'plantuml.render'. This property is already registered.
+2024-06-24 16:21:42.357 [warning] [well-ar.plantuml]: Cannot register 'plantuml.includepaths'. This property is already registered.
+2024-06-24 16:21:42.357 [warning] [well-ar.plantuml]: Cannot register 'plantuml.lintDiagramNoName'. This property is already registered.
+2024-06-24 16:21:42.358 [warning] [well-ar.plantuml]: Cannot register 'plantuml.commandArgs'. This property is already registered.
+2024-06-24 16:21:42.358 [warning] [well-ar.plantuml]: Cannot register 'plantuml.jarArgs'. This property is already registered.
+2024-06-24 16:21:42.376 [info] [well-ar.plantuml]: Command `plantuml.exportCurrent` already registered by PlantUML (jebbs.plantuml)
+2024-06-24 16:21:42.377 [info] [well-ar.plantuml]: Command `plantuml.exportDocument` already registered by PlantUML (jebbs.plantuml)
+2024-06-24 16:21:42.377 [info] [well-ar.plantuml]: Command `plantuml.exportWorkspace` already registered by PlantUML (jebbs.plantuml)
+2024-06-24 16:21:42.377 [info] [well-ar.plantuml]: Command `plantuml.preview` already registered by PlantUML (jebbs.plantuml)
+2024-06-24 16:21:42.377 [info] [well-ar.plantuml]: Command `plantuml.URLCurrent` already registered by PlantUML (jebbs.plantuml)
+2024-06-24 16:21:42.378 [info] [well-ar.plantuml]: Command `plantuml.URLDocument` already registered by PlantUML (jebbs.plantuml)
+2024-06-24 16:21:42.378 [info] [well-ar.plantuml]: Command `plantuml.extractSource` already registered by PlantUML (jebbs.plantuml)
+2024-06-24 16:21:45.223 [info] [perf] Render performance baseline is 28ms
